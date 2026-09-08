@@ -63044,6 +63044,428 @@
       }
     }
   },
+  "201169": {
+    "name": "勇敢·改",
+    "change_skin": "",
+    "desc": "皇家海军的勇敢，再次向您报到！感谢您给予我这么多的时间和耐心，现在的我已经拥有更强的力量了，阁下，从现在开始请更加信赖我吧！",
+    "illustrator2": -1,
+    "ship_group": 20116,
+    "group_index": 9,
+    "purchase_offset": "",
+    "painting": "yonggan_g",
+    "lover_hand": "hand_3_02",
+    "skin_type": 2,
+    "shop_type_id": 9997,
+    "l2d_ignore_drag": 0,
+    "hand_id": 13,
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "lover_kiss": "lip02",
+    "bg_sp": "",
+    "bg": "",
+    "bgm": "",
+    "spine_use_live2d": 0,
+    "spine_action_offset": false,
+    "spine_offset_profile": "",
+    "shop_offset": "",
+    "special_effects": "",
+    "id": 201169,
+    "voice_actor_2": -1,
+    "gyro": 0,
+    "ship_l2d_id": "",
+    "l2d_drag_rate": "",
+    "prefab": "yonggan_g",
+    "l2d_se": "",
+    "part_scale": "",
+    "get_showing": "",
+    "main_UI_FX": "",
+    "shop_id": 0,
+    "voice_actor": 170,
+    "shop_dynamic_hx": 0,
+    "spine_offset": "",
+    "illustrator": 4,
+    "rarity_bg": "",
+    "double_char": 0,
+    "skeleton_default_skin": "",
+    "voice_lang": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "live2d_offset_profile": "",
+    "show_skin": "stand",
+    "l2d_voice_calibrate": "",
+    "tag": {},
+    "live2d_offset": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "fx_container": {
+      "0": {
+        "0": 0,
+        "1": 1.99185,
+        "2": 1.15
+      },
+      "1": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      },
+      "2": {
+        "0": 0,
+        "1": 0.75,
+        "2": -1.299
+      },
+      "3": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      }
+    },
+    "bound_bone": {
+      "cannon": {
+        "0": {
+          "0": 1.222,
+          "1": 0.831,
+          "2": 0
+        }
+      },
+      "torpedo": {
+        "0": {
+          "0": 0,
+          "1": 0,
+          "2": 0
+        }
+      },
+      "antiaircraft": {
+        "0": {
+          "0": 0.641,
+          "1": 2.216,
+          "2": 0
+        }
+      }
+    },
+    "smoke": {
+      "0": {
+        "0": 70,
+        "1": {
+          "0": {
+            "0": "smoke",
+            "1": {
+              "0": -0.797,
+              "1": 2.326,
+              "2": 0
+            }
+          }
+        }
+      },
+      "1": {
+        "0": 30,
+        "1": {
+          "0": {
+            "0": "smoke",
+            "1": {
+              "0": -0.723,
+              "1": 2.326,
+              "2": 0
+            }
+          }
+        }
+      }
+    }
+  },
+  "201190": {
+    "name": "敌对",
+    "change_skin": "",
+    "desc": "H级驱逐舰一一敌对",
+    "illustrator2": -1,
+    "ship_group": 20119,
+    "group_index": 0,
+    "purchase_offset": "",
+    "painting": "didui",
+    "lover_hand": "hand_2_02",
+    "skin_type": -1,
+    "shop_type_id": 0,
+    "l2d_ignore_drag": 0,
+    "hand_id": 13,
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "lover_kiss": "lip02",
+    "bg_sp": "",
+    "bg": "",
+    "bgm": "",
+    "spine_use_live2d": 0,
+    "spine_action_offset": false,
+    "spine_offset_profile": "",
+    "shop_offset": "",
+    "special_effects": "",
+    "id": 201190,
+    "voice_actor_2": -1,
+    "gyro": 0,
+    "ship_l2d_id": "",
+    "l2d_drag_rate": "",
+    "prefab": "didui",
+    "l2d_se": "",
+    "part_scale": "",
+    "get_showing": "",
+    "main_UI_FX": "",
+    "shop_id": 0,
+    "voice_actor": 525,
+    "shop_dynamic_hx": 0,
+    "spine_offset": "",
+    "illustrator": -1,
+    "rarity_bg": "",
+    "double_char": 0,
+    "skeleton_default_skin": "",
+    "voice_lang": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "live2d_offset_profile": "",
+    "show_skin": "stand",
+    "l2d_voice_calibrate": "",
+    "tag": {},
+    "live2d_offset": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "fx_container": {
+      "0": {
+        "0": 0,
+        "1": 1.99185,
+        "2": 1.15
+      },
+      "1": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      },
+      "2": {
+        "0": 0,
+        "1": 0.75,
+        "2": -1.299
+      },
+      "3": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      }
+    },
+    "bound_bone": {
+      "cannon": {
+        "0": {
+          "0": 1.802,
+          "1": 0.902,
+          "2": 0
+        }
+      },
+      "torpedo": {
+        "0": {
+          "0": 0.012,
+          "1": 0.02,
+          "2": 0
+        }
+      },
+      "antiaircraft": {
+        "0": {
+          "0": 0.677,
+          "1": 2.247,
+          "2": 0
+        }
+      }
+    },
+    "smoke": {
+      "0": {
+        "0": 50,
+        "1": {
+          "0": {
+            "0": "smoke",
+            "1": {
+              "0": -0.702,
+              "1": 2.415,
+              "2": 0
+            }
+          }
+        }
+      }
+    }
+  },
+  "201191": {
+    "name": "水畔的守望之光",
+    "change_skin": "",
+    "desc": "这片水域不算安全，尤其是这一带……所以我才会在这里等你。放心吧，这盏灯会为你指明安全的道路，带你返回岸上。",
+    "illustrator2": -1,
+    "ship_group": 20119,
+    "group_index": 1,
+    "purchase_offset": "",
+    "painting": "didui_2",
+    "lover_hand": "hand_2_02",
+    "skin_type": 4,
+    "shop_type_id": 29,
+    "l2d_ignore_drag": 0,
+    "hand_id": 13,
+    "lip_smoothing": 0,
+    "lover_kiss": "lip02",
+    "bg_sp": "",
+    "bg": "164",
+    "bgm": "",
+    "spine_use_live2d": 0,
+    "spine_action_offset": false,
+    "spine_offset_profile": "",
+    "shop_offset": "",
+    "special_effects": "",
+    "id": 201191,
+    "voice_actor_2": -1,
+    "gyro": 0,
+    "ship_l2d_id": "",
+    "l2d_drag_rate": "",
+    "prefab": "didui_2",
+    "l2d_se": "",
+    "part_scale": "",
+    "main_UI_FX": "",
+    "shop_id": 71401,
+    "voice_actor": 525,
+    "shop_dynamic_hx": 0,
+    "spine_offset": "",
+    "illustrator": -1,
+    "rarity_bg": "",
+    "double_char": 0,
+    "skeleton_default_skin": "",
+    "voice_lang": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "live2d_offset_profile": "",
+    "show_skin": "stand",
+    "tag": {
+      "0": 2
+    },
+    "live2d_offset": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "fx_container": {
+      "0": {
+        "0": 0,
+        "1": 1.99185,
+        "2": 1.15
+      },
+      "1": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      },
+      "2": {
+        "0": 0,
+        "1": 0.75,
+        "2": -1.299
+      },
+      "3": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      }
+    },
+    "bound_bone": {
+      "cannon": {
+        "0": {
+          "0": 0.753,
+          "1": 0.721,
+          "2": 0
+        }
+      },
+      "torpedo": {
+        "0": {
+          "0": 0,
+          "1": 0,
+          "2": 0
+        }
+      },
+      "antiaircraft": {
+        "0": {
+          "0": 0.609,
+          "1": 2.386,
+          "2": 0
+        }
+      }
+    },
+    "smoke": {
+      "0": {
+        "0": 70,
+        "1": {
+          "0": {
+            "0": "smoke",
+            "1": {
+              "0": -0.648,
+              "1": 2.435,
+              "2": 0
+            }
+          }
+        }
+      },
+      "1": {
+        "0": 30,
+        "1": {
+          "0": {
+            "0": "smoke",
+            "1": {
+              "0": -0.651,
+              "1": 2.447,
+              "2": 0
+            }
+          }
+        }
+      }
+    },
+    "l2d_animations": {
+      "0": "idle",
+      "1": "main_1",
+      "2": "main_2",
+      "3": "main_3",
+      "4": "mission",
+      "5": "mission_complete",
+      "6": "complete",
+      "7": "login",
+      "8": "home",
+      "9": "mail",
+      "10": "touch_body",
+      "11": "touch_head"
+    },
+    "l2d_voice_calibrate": {
+      "propose": 2.5
+    },
+    "get_showing": {
+      "show": 1,
+      "data": {
+        "0": {
+          "0": 563,
+          "1": 312,
+          "2": 2,
+          "3": 0,
+          "4": 155,
+          "5": 2
+        },
+        "1": {
+          "0": -674,
+          "1": 460,
+          "2": 2,
+          "3": -141,
+          "4": 0,
+          "5": 2
+        },
+        "2": {
+          "0": -513,
+          "1": -400,
+          "2": 2,
+          "3": 0,
+          "4": -148,
+          "5": 2
+        }
+      }
+    }
+  },
   "201200": {
     "name": "猎人",
     "change_skin": "",
@@ -68717,6 +69139,270 @@
               "2": 0
             }
           }
+        }
+      }
+    }
+  },
+  "201400": {
+    "name": "匆忙",
+    "change_skin": "",
+    "desc": "H级驱逐舰一一匆忙",
+    "illustrator2": -1,
+    "ship_group": 20140,
+    "group_index": 0,
+    "purchase_offset": "",
+    "painting": "congmang",
+    "lover_hand": "hand_2_02",
+    "skin_type": -1,
+    "shop_type_id": 0,
+    "l2d_ignore_drag": 0,
+    "hand_id": 13,
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "lover_kiss": "lip02",
+    "bg_sp": "",
+    "bg": "",
+    "bgm": "",
+    "spine_use_live2d": 0,
+    "spine_action_offset": false,
+    "spine_offset_profile": "",
+    "shop_offset": "",
+    "special_effects": "",
+    "id": 201400,
+    "voice_actor_2": -1,
+    "gyro": 0,
+    "ship_l2d_id": "",
+    "l2d_drag_rate": "",
+    "prefab": "congmang",
+    "l2d_se": "",
+    "part_scale": "",
+    "get_showing": "",
+    "main_UI_FX": "",
+    "shop_id": 0,
+    "voice_actor": 524,
+    "shop_dynamic_hx": 0,
+    "spine_offset": "",
+    "illustrator": -1,
+    "rarity_bg": "",
+    "double_char": 0,
+    "skeleton_default_skin": "",
+    "voice_lang": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "live2d_offset_profile": "",
+    "show_skin": "stand",
+    "l2d_voice_calibrate": "",
+    "tag": {},
+    "live2d_offset": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "fx_container": {
+      "0": {
+        "0": 0,
+        "1": 1.99185,
+        "2": 1.15
+      },
+      "1": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      },
+      "2": {
+        "0": 0,
+        "1": 0.75,
+        "2": -1.299
+      },
+      "3": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      }
+    },
+    "bound_bone": {
+      "cannon": {
+        "0": {
+          "0": 1.337,
+          "1": 1.113,
+          "2": 0
+        }
+      },
+      "torpedo": {
+        "0": {
+          "0": -0.102,
+          "1": -0.005,
+          "2": 0
+        }
+      },
+      "antiaircraft": {
+        "0": {
+          "0": 0.756,
+          "1": 2.171,
+          "2": 0
+        }
+      }
+    },
+    "smoke": {
+      "0": {
+        "0": 50,
+        "1": {
+          "0": {
+            "0": "smoke",
+            "1": {
+              "0": -0.636,
+              "1": 2.318,
+              "2": 0
+            }
+          }
+        }
+      }
+    }
+  },
+  "201401": {
+    "name": "人偶藏馆",
+    "change_skin": "",
+    "desc": "大家一直……在等你。准备好，加入我们了吗？……嘻嘻，有没有被吓到？欢迎来到我的人偶收藏馆，今天要陪着我和人偶们过一整天哦~",
+    "illustrator2": -1,
+    "ship_group": 20140,
+    "group_index": 1,
+    "purchase_offset": "",
+    "painting": "congmang_2",
+    "lover_hand": "hand_3_01",
+    "skin_type": 4,
+    "shop_type_id": 29,
+    "l2d_ignore_drag": 0,
+    "hand_id": 13,
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "lover_kiss": "lip01",
+    "bg_sp": "",
+    "bg": "177",
+    "bgm": "",
+    "spine_use_live2d": 0,
+    "spine_action_offset": false,
+    "spine_offset_profile": "",
+    "shop_offset": "",
+    "special_effects": "",
+    "id": 201401,
+    "voice_actor_2": -1,
+    "gyro": 0,
+    "ship_l2d_id": "",
+    "l2d_drag_rate": "",
+    "prefab": "congmang_2",
+    "l2d_se": "",
+    "part_scale": "",
+    "main_UI_FX": "",
+    "shop_id": 71400,
+    "voice_actor": 524,
+    "shop_dynamic_hx": 0,
+    "spine_offset": "",
+    "illustrator": -1,
+    "rarity_bg": "",
+    "double_char": 0,
+    "skeleton_default_skin": "",
+    "voice_lang": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "live2d_offset_profile": "",
+    "show_skin": "stand",
+    "l2d_voice_calibrate": "",
+    "tag": {
+      "0": 2
+    },
+    "live2d_offset": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "fx_container": {
+      "0": {
+        "0": 0,
+        "1": 1.99185,
+        "2": 1.15
+      },
+      "1": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      },
+      "2": {
+        "0": 0,
+        "1": 0.75,
+        "2": -1.299
+      },
+      "3": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      }
+    },
+    "bound_bone": {
+      "cannon": {
+        "0": {
+          "0": 1.398,
+          "1": 1.018,
+          "2": 0
+        }
+      },
+      "torpedo": {
+        "0": {
+          "0": 0,
+          "1": 0,
+          "2": 0
+        }
+      },
+      "antiaircraft": {
+        "0": {
+          "0": 0.687,
+          "1": 2.308,
+          "2": 0
+        }
+      }
+    },
+    "smoke": {
+      "0": {
+        "0": 50,
+        "1": {
+          "0": {
+            "0": "smoke",
+            "1": {
+              "0": -0.667,
+              "1": 2.443,
+              "2": 0
+            }
+          }
+        }
+      }
+    },
+    "get_showing": {
+      "show": 1,
+      "data": {
+        "0": {
+          "0": -110,
+          "1": 1362,
+          "2": 2.5,
+          "3": -158,
+          "4": 0,
+          "5": 2
+        },
+        "1": {
+          "0": -358,
+          "1": 351,
+          "2": 2.5,
+          "3": 0,
+          "4": -128,
+          "5": 2
+        },
+        "2": {
+          "0": -250,
+          "1": -643,
+          "2": 2.5,
+          "3": 161,
+          "4": 0,
+          "5": 2
         }
       }
     }
@@ -83859,6 +84545,497 @@
       }
     }
   },
+  "202380": {
+    "name": "虎",
+    "change_skin": "",
+    "desc": "虎级轻巡洋舰一一虎",
+    "illustrator2": -1,
+    "ship_group": 20238,
+    "group_index": 0,
+    "purchase_offset": "",
+    "painting": "hu",
+    "lover_hand": "hand_1_02",
+    "skin_type": -1,
+    "shop_type_id": 0,
+    "l2d_ignore_drag": 0,
+    "hand_id": 13,
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "lover_kiss": "lip03",
+    "bg_sp": "",
+    "bg": "",
+    "bgm": "",
+    "spine_use_live2d": 0,
+    "spine_action_offset": false,
+    "shop_offset": "",
+    "special_effects": "",
+    "id": 202380,
+    "voice_actor_2": -1,
+    "gyro": 0,
+    "ship_l2d_id": "",
+    "l2d_drag_rate": "",
+    "prefab": "hu",
+    "l2d_se": "",
+    "part_scale": "",
+    "get_showing": "",
+    "main_UI_FX": "",
+    "shop_id": 0,
+    "voice_actor": 379,
+    "shop_dynamic_hx": 0,
+    "illustrator": -1,
+    "rarity_bg": "",
+    "double_char": 0,
+    "skeleton_default_skin": "",
+    "voice_lang": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "live2d_offset_profile": "",
+    "show_skin": "stand",
+    "l2d_voice_calibrate": "",
+    "tag": {},
+    "live2d_offset": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "spine_offset_profile": {
+      "0": -37,
+      "1": -1485,
+      "2": 0,
+      "3": 1.25
+    },
+    "fx_container": {
+      "0": {
+        "0": 0,
+        "1": 1.99185,
+        "2": 1.15
+      },
+      "1": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      },
+      "2": {
+        "0": 0,
+        "1": 0.75,
+        "2": -1.299
+      },
+      "3": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      }
+    },
+    "bound_bone": {
+      "cannon": {
+        "0": {
+          "0": 1.45,
+          "1": 1.532,
+          "2": 0
+        }
+      },
+      "vicegun": {
+        "0": {
+          "0": 1.349,
+          "1": 1.046,
+          "2": 0
+        }
+      },
+      "torpedo": {
+        "0": {
+          "0": 0,
+          "1": 0,
+          "2": 0
+        }
+      },
+      "antiaircraft": {
+        "0": {
+          "0": 0.713,
+          "1": 2.402,
+          "2": 0
+        }
+      }
+    },
+    "smoke": {
+      "0": {
+        "0": 50,
+        "1": {
+          "0": {
+            "0": "smoke",
+            "1": {
+              "0": -0.744,
+              "1": 2.339,
+              "2": 0
+            }
+          }
+        }
+      }
+    },
+    "spine_offset": {
+      "0": -35,
+      "1": -1475,
+      "2": 0,
+      "3": 1.25
+    }
+  },
+  "202381": {
+    "name": "临水的辰星",
+    "desc": "原来……将我从天穹引至此地的那道声音，就是你啊。我从辰星而来，期待与你同奏出这人间最完美的旋律……",
+    "illustrator2": -1,
+    "ship_group": 20238,
+    "group_index": 1,
+    "purchase_offset": "",
+    "painting": "hu_2",
+    "lover_hand": "hand_1_02",
+    "skin_type": 4,
+    "shop_type_id": 29,
+    "l2d_ignore_drag": 0,
+    "hand_id": 13,
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "lover_kiss": "lip03",
+    "bg_sp": "",
+    "bg": "142",
+    "bgm": "",
+    "spine_use_live2d": 0,
+    "spine_action_offset": false,
+    "special_effects": "",
+    "id": 202381,
+    "voice_actor_2": -1,
+    "gyro": 0,
+    "ship_l2d_id": "",
+    "l2d_drag_rate": "",
+    "prefab": "hu_2",
+    "l2d_se": "",
+    "part_scale": "",
+    "main_UI_FX": "",
+    "shop_id": 71397,
+    "voice_actor": 379,
+    "shop_dynamic_hx": 0,
+    "illustrator": -1,
+    "rarity_bg": "",
+    "double_char": 0,
+    "skeleton_default_skin": "",
+    "voice_lang": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "live2d_offset_profile": "",
+    "show_skin": "stand",
+    "l2d_voice_calibrate": "",
+    "tag": {
+      "0": 11,
+      "1": 6,
+      "2": 2
+    },
+    "change_skin": {
+      "group": 20238,
+      "action": "changeAsmr",
+      "next": 202382,
+      "state": 4,
+      "index": 1,
+      "finish_delay": 0.2,
+      "hide_shop": 1
+    },
+    "live2d_offset": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "shop_offset": {
+      "0": -18.85,
+      "1": 12.22,
+      "2": 0,
+      "3": 0.85
+    },
+    "spine_offset_profile": {
+      "0": 50,
+      "1": 6,
+      "2": 0,
+      "3": 0.85
+    },
+    "fx_container": {
+      "0": {
+        "0": 0,
+        "1": 1.99185,
+        "2": 1.15
+      },
+      "1": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      },
+      "2": {
+        "0": 0,
+        "1": 0.75,
+        "2": -1.299
+      },
+      "3": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      }
+    },
+    "bound_bone": {
+      "cannon": {
+        "0": {
+          "0": 1.473,
+          "1": 1.497,
+          "2": 0
+        }
+      },
+      "vicegun": {
+        "0": {
+          "0": 1.248,
+          "1": 0.96,
+          "2": 0
+        }
+      },
+      "torpedo": {
+        "0": {
+          "0": 0.03,
+          "1": 0.02,
+          "2": 0
+        }
+      },
+      "antiaircraft": {
+        "0": {
+          "0": 0.749,
+          "1": 2.377,
+          "2": 0
+        }
+      }
+    },
+    "smoke": {
+      "0": {
+        "0": 70,
+        "1": {
+          "0": {
+            "0": "smoke",
+            "1": {
+              "0": -0.62,
+              "1": 2.458,
+              "2": 0
+            }
+          }
+        }
+      },
+      "1": {
+        "0": 30,
+        "1": {
+          "0": {
+            "0": "smoke",
+            "1": {
+              "0": -0.6,
+              "1": 2.439,
+              "2": 0
+            }
+          }
+        }
+      }
+    },
+    "spine_offset": {
+      "0": 60,
+      "1": -60,
+      "2": 0,
+      "3": 1.1
+    },
+    "get_showing": {
+      "show": 1,
+      "data": {
+        "0": {
+          "0": 826,
+          "1": -341,
+          "2": 2,
+          "3": 0,
+          "4": 148,
+          "5": 2
+        },
+        "1": {
+          "0": 225,
+          "1": 351,
+          "2": 2,
+          "3": -185,
+          "4": 0,
+          "5": 2
+        },
+        "2": {
+          "0": -584,
+          "1": -293,
+          "2": 2,
+          "3": 0,
+          "4": -104,
+          "5": 2
+        }
+      }
+    }
+  },
+  "202382": {
+    "name": "临水的辰星",
+    "desc": "原来……将我从天穹引至此地的那道声音，就是你啊。我从辰星而来，期待与你同奏出这人间最完美的旋律……",
+    "illustrator2": -1,
+    "ship_group": 20238,
+    "group_index": 2,
+    "purchase_offset": "",
+    "painting": "hu_2_asmr",
+    "lover_hand": "hand_1_02",
+    "skin_type": 4,
+    "shop_type_id": 29,
+    "l2d_ignore_drag": 0,
+    "hand_id": 13,
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "lover_kiss": "lip03",
+    "bg_sp": "",
+    "bg": "142",
+    "bgm": "",
+    "spine_use_live2d": 0,
+    "spine_action_offset": false,
+    "special_effects": "",
+    "id": 202382,
+    "voice_actor_2": -1,
+    "gyro": 0,
+    "ship_l2d_id": "",
+    "l2d_drag_rate": "",
+    "prefab": "hu_2",
+    "l2d_se": "",
+    "part_scale": "",
+    "get_showing": "",
+    "main_UI_FX": "",
+    "shop_id": 0,
+    "voice_actor": 379,
+    "shop_dynamic_hx": 0,
+    "illustrator": -1,
+    "rarity_bg": "",
+    "double_char": 0,
+    "skeleton_default_skin": "",
+    "voice_lang": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "live2d_offset_profile": "",
+    "show_skin": "stand",
+    "l2d_voice_calibrate": "",
+    "tag": {
+      "0": 11,
+      "1": 6,
+      "2": 2
+    },
+    "change_skin": {
+      "group": 20238,
+      "action": "changeAsmr",
+      "next": 202381,
+      "state": 4,
+      "index": 2,
+      "finish_delay": 0.2,
+      "asmr": 1,
+      "hide_shop": 1
+    },
+    "live2d_offset": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "shop_offset": {
+      "0": 0,
+      "1": -520,
+      "2": 0,
+      "3": 0.49
+    },
+    "spine_offset_profile": {
+      "0": 50,
+      "1": 6,
+      "2": 0,
+      "3": 0.85
+    },
+    "fx_container": {
+      "0": {
+        "0": 0,
+        "1": 1.99185,
+        "2": 1.15
+      },
+      "1": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      },
+      "2": {
+        "0": 0,
+        "1": 0.75,
+        "2": -1.299
+      },
+      "3": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      }
+    },
+    "bound_bone": {
+      "cannon": {
+        "0": {
+          "0": 1.03,
+          "1": 1.16,
+          "2": 0
+        }
+      },
+      "vicegun": {
+        "0": {
+          "0": 1.03,
+          "1": 1.16,
+          "2": 0
+        }
+      },
+      "torpedo": {
+        "0": {
+          "0": 0.03,
+          "1": 0.02,
+          "2": 0
+        }
+      },
+      "antiaircraft": {
+        "0": {
+          "0": 1.03,
+          "1": 1.16,
+          "2": 0
+        }
+      }
+    },
+    "smoke": {
+      "0": {
+        "0": 70,
+        "1": {
+          "0": {
+            "0": "smoke",
+            "1": {
+              "0": -0.47,
+              "1": 0.91,
+              "2": 0
+            }
+          }
+        }
+      },
+      "1": {
+        "0": 30,
+        "1": {
+          "0": {
+            "0": "smoke",
+            "1": {
+              "0": -0.5,
+              "1": 2.42,
+              "2": 0
+            }
+          }
+        }
+      }
+    },
+    "spine_offset": {
+      "0": 60,
+      "1": -60,
+      "2": 0,
+      "3": 1.1
+    }
+  },
   "203010": {
     "name": "伦敦",
     "change_skin": "",
@@ -94970,6 +96147,272 @@
       }
     }
   },
+  "205162": {
+    "name": "夜巷中的诱引者",
+    "change_skin": "",
+    "desc": "外来者，脚步声已经暴露你的行踪。既然这么想被我找到……就别急着逃跑。",
+    "illustrator2": -1,
+    "ship_group": 20516,
+    "group_index": 2,
+    "purchase_offset": "",
+    "painting": "shi_3",
+    "lover_hand": "hand_1_02",
+    "skin_type": 4,
+    "shop_type_id": 29,
+    "l2d_ignore_drag": 0,
+    "hand_id": 1,
+    "lip_smoothing": 0,
+    "lover_kiss": "lip03",
+    "bg_sp": "",
+    "bg": "497",
+    "bgm": "",
+    "spine_use_live2d": 0,
+    "spine_action_offset": false,
+    "spine_offset_profile": "",
+    "special_effects": "",
+    "id": 205162,
+    "voice_actor_2": -1,
+    "gyro": 0,
+    "prefab": "shi_3",
+    "l2d_se": "",
+    "part_scale": "",
+    "main_UI_FX": "",
+    "shop_id": 71404,
+    "voice_actor": 87,
+    "shop_dynamic_hx": 0,
+    "spine_offset": "",
+    "illustrator": -1,
+    "rarity_bg": "",
+    "double_char": 0,
+    "skeleton_default_skin": "",
+    "voice_lang": "",
+    "time": "",
+    "lip_sync_gain": 0,
+    "live2d_offset_profile": "",
+    "show_skin": "stand",
+    "tag": {
+      "0": 9,
+      "1": 2
+    },
+    "live2d_offset": {
+      "0": 116,
+      "1": -180,
+      "2": 0,
+      "3": 57
+    },
+    "shop_offset": {
+      "0": 0,
+      "1": -48,
+      "2": 0,
+      "3": 43.3
+    },
+    "fx_container": {
+      "0": {
+        "0": 0,
+        "1": 1.99185,
+        "2": 1.15
+      },
+      "1": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      },
+      "2": {
+        "0": 0,
+        "1": 0.75,
+        "2": -1.299
+      },
+      "3": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      }
+    },
+    "bound_bone": {
+      "cannon": {
+        "0": {
+          "0": 0.667,
+          "1": 0.941,
+          "2": 0
+        }
+      },
+      "vicegun": {
+        "0": {
+          "0": 1.46,
+          "1": 1.414,
+          "2": 0
+        }
+      },
+      "torpedo": {
+        "0": {
+          "0": 0,
+          "1": 0,
+          "2": 0
+        }
+      },
+      "antiaircraft": {
+        "0": {
+          "0": 0.507,
+          "1": 2.569,
+          "2": 0
+        }
+      }
+    },
+    "smoke": {
+      "0": {
+        "0": 50,
+        "1": {
+          "0": {
+            "0": "smoke",
+            "1": {
+              "0": -0.725,
+              "1": 2.401,
+              "2": 0
+            }
+          }
+        }
+      }
+    },
+    "l2d_animations": {
+      "0": "idle",
+      "1": "main_1",
+      "2": "main_2",
+      "3": "main_3",
+      "4": "main_5",
+      "5": "mission",
+      "6": "mission_complete",
+      "7": "complete",
+      "8": "login",
+      "9": "home",
+      "10": "mail",
+      "11": "touch_body",
+      "12": "touch_head"
+    },
+    "l2d_voice_calibrate": {
+      "use_event": true
+    },
+    "l2d_para_range": {
+      "ParamBodyAngleX": {
+        "0": -3,
+        "1": 3
+      },
+      "ParamAngleX": {
+        "0": -3,
+        "1": 3
+      },
+      "ParamAngleY": {
+        "0": -3,
+        "1": 3
+      }
+    },
+    "ship_l2d_id": {
+      "0": 20516201,
+      "1": 20516202,
+      "2": 20516203,
+      "3": 20516204,
+      "4": 20516205,
+      "5": 20516206,
+      "6": 20516207,
+      "7": 20516208,
+      "8": 20516209,
+      "9": 20516210,
+      "10": 20516211,
+      "11": 20516212,
+      "12": 20516213,
+      "13": 20516214,
+      "14": 20516215,
+      "15": 20516216,
+      "16": 20516217,
+      "17": 20516218,
+      "18": 20516219,
+      "19": 20516220,
+      "20": 20516221,
+      "21": 20516222,
+      "22": 20516223,
+      "23": 20516224,
+      "24": 20516225,
+      "25": 20516226,
+      "26": 20516227,
+      "27": 20516228,
+      "28": 20516229,
+      "29": 20516230,
+      "30": 20516231,
+      "31": 20516232,
+      "32": 20516233,
+      "33": 20516234,
+      "34": 20516235,
+      "35": 20516236,
+      "36": 20516237,
+      "37": 20516238,
+      "38": 20516239,
+      "39": 20516240,
+      "40": 20516241,
+      "41": 20516242,
+      "42": 20516243,
+      "43": 20516244,
+      "44": 20516245,
+      "45": 20516246,
+      "46": 20516247,
+      "47": 20516248,
+      "48": 20516249,
+      "49": 20516250,
+      "50": 20516251,
+      "51": 20516252,
+      "52": 20516253,
+      "53": 20516254,
+      "54": 20516255,
+      "55": 20516256,
+      "56": 20516257,
+      "57": 20516258,
+      "58": 20516259,
+      "59": 20516260,
+      "60": 20516261,
+      "61": 20516262,
+      "62": 20516263,
+      "63": 20516264,
+      "64": 20516265,
+      "65": 20516266,
+      "66": 20516267,
+      "67": 20516268,
+      "68": 20516269,
+      "69": 20516270,
+      "70": 20516271
+    },
+    "l2d_drag_rate": {
+      "0": 0.3,
+      "1": 0.3,
+      "2": 0.3
+    },
+    "get_showing": {
+      "show": 1,
+      "data": {
+        "0": {
+          "0": -120,
+          "1": 2007,
+          "2": 2,
+          "3": -158,
+          "4": 0,
+          "5": 2
+        },
+        "1": {
+          "0": 19,
+          "1": 720,
+          "2": 2,
+          "3": 0,
+          "4": -138,
+          "5": 2.2
+        },
+        "2": {
+          "0": -308,
+          "1": -350,
+          "2": 2,
+          "3": 129,
+          "4": 0,
+          "5": 2
+        }
+      }
+    }
+  },
   "206010": {
     "name": "竞技神",
     "change_skin": "",
@@ -105795,6 +107238,123 @@
       }
     }
   },
+  "231211": {
+    "name": "标枪",
+    "change_skin": "",
+    "desc": "无描述",
+    "illustrator2": -1,
+    "ship_group": 20121,
+    "group_index": 11,
+    "purchase_offset": "",
+    "painting": "biaoqiang_10",
+    "lover_hand": "hand_2_02",
+    "skin_type": 4,
+    "shop_type_id": 0,
+    "l2d_ignore_drag": 0,
+    "hand_id": 13,
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "lover_kiss": "lip02",
+    "bg_sp": "",
+    "bg": "",
+    "bgm": "",
+    "spine_use_live2d": 0,
+    "spine_action_offset": false,
+    "spine_offset_profile": "",
+    "shop_offset": "",
+    "special_effects": "",
+    "id": 231211,
+    "voice_actor_2": -1,
+    "gyro": 0,
+    "ship_l2d_id": "",
+    "l2d_drag_rate": "",
+    "prefab": "biaoqiang_10",
+    "l2d_se": "",
+    "part_scale": "",
+    "get_showing": "",
+    "main_UI_FX": "",
+    "shop_id": 0,
+    "voice_actor": 23,
+    "shop_dynamic_hx": 0,
+    "spine_offset": "",
+    "illustrator": -1,
+    "rarity_bg": "",
+    "double_char": 0,
+    "skeleton_default_skin": "",
+    "voice_lang": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "live2d_offset_profile": "",
+    "show_skin": "stand",
+    "l2d_voice_calibrate": "",
+    "tag": {},
+    "live2d_offset": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "fx_container": {
+      "0": {
+        "0": 0,
+        "1": 1.99185,
+        "2": 1.15
+      },
+      "1": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      },
+      "2": {
+        "0": 0,
+        "1": 0.75,
+        "2": -1.299
+      },
+      "3": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      }
+    },
+    "bound_bone": {
+      "cannon": {
+        "0": {
+          "0": 1.18,
+          "1": 1.012,
+          "2": 0
+        }
+      },
+      "torpedo": {
+        "0": {
+          "0": 0,
+          "1": 0,
+          "2": 0
+        }
+      },
+      "antiaircraft": {
+        "0": {
+          "0": 0.729,
+          "1": 2.47,
+          "2": 0
+        }
+      }
+    },
+    "smoke": {
+      "0": {
+        "0": 50,
+        "1": {
+          "0": {
+            "0": "smoke",
+            "1": {
+              "0": -0.779,
+              "1": 2.606,
+              "2": 0
+            }
+          }
+        }
+      }
+    }
+  },
   "236030": {
     "name": "幸福乐章",
     "change_skin": "",
@@ -106207,7 +107767,7 @@
     "skin_type": 4,
     "shop_type_id": 9,
     "l2d_ignore_drag": 0,
-    "hand_id": 13,
+    "hand_id": 1,
     "lip_smoothing": 0,
     "l2d_animations": "",
     "lover_kiss": "lip02",
@@ -106356,6 +107916,277 @@
           "2": 2,
           "3": 0,
           "4": -100,
+          "5": 2
+        }
+      }
+    }
+  },
+  "237031": {
+    "name": "幽影徘徊之夜",
+    "change_skin": "",
+    "desc": "找到您了，迷路的小羔羊~独自一人跑到这种地方……是在期待什么不一样的邂逅吗？那光辉就要好好满足您了呢~",
+    "illustrator2": -1,
+    "ship_group": 20703,
+    "group_index": 11,
+    "purchase_offset": "",
+    "painting": "guanghui_9",
+    "lover_hand": "hand_2_02",
+    "skin_type": 4,
+    "shop_type_id": 29,
+    "l2d_ignore_drag": 0,
+    "hand_id": 1,
+    "lip_smoothing": 0,
+    "lover_kiss": "lip02",
+    "bg_sp": "",
+    "bg": "177",
+    "bgm": "",
+    "spine_use_live2d": 0,
+    "spine_action_offset": false,
+    "spine_offset_profile": "",
+    "special_effects": "",
+    "id": 237031,
+    "voice_actor_2": -1,
+    "gyro": 0,
+    "l2d_drag_rate": "",
+    "prefab": "guanghui_9",
+    "l2d_se": "",
+    "part_scale": "",
+    "main_UI_FX": "",
+    "shop_id": 71403,
+    "voice_actor": 6,
+    "shop_dynamic_hx": 0,
+    "spine_offset": "",
+    "illustrator": -1,
+    "rarity_bg": "",
+    "double_char": 0,
+    "skeleton_default_skin": "",
+    "voice_lang": "",
+    "time": "",
+    "lip_sync_gain": 0,
+    "live2d_offset_profile": "",
+    "show_skin": "stand",
+    "tag": {
+      "0": 9,
+      "1": 2
+    },
+    "live2d_offset": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 64
+    },
+    "shop_offset": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 52
+    },
+    "fx_container": {
+      "0": {
+        "0": 0,
+        "1": 1.99185,
+        "2": 1.15
+      },
+      "1": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      },
+      "2": {
+        "0": 0,
+        "1": 0.75,
+        "2": -1.299
+      },
+      "3": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      }
+    },
+    "bound_bone": {
+      "cannon": {
+        "0": {
+          "0": 0.672,
+          "1": 0.966,
+          "2": 0
+        }
+      },
+      "vicegun": {
+        "0": {
+          "0": 0.952,
+          "1": 0.916,
+          "2": 0
+        }
+      },
+      "torpedo": {
+        "0": {
+          "0": 0,
+          "1": 0,
+          "2": 0
+        }
+      },
+      "antiaircraft": {
+        "0": {
+          "0": 0.666,
+          "1": 2.41,
+          "2": 0
+        }
+      },
+      "plane": {
+        "0": {
+          "0": 0.862,
+          "1": 1.068,
+          "2": 0
+        }
+      }
+    },
+    "smoke": {
+      "0": {
+        "0": 50,
+        "1": {
+          "0": {
+            "0": "smoke",
+            "1": {
+              "0": -0.736,
+              "1": 2.475,
+              "2": 0
+            }
+          }
+        }
+      }
+    },
+    "l2d_animations": {
+      "0": "idle",
+      "1": "main_1",
+      "2": "main_2",
+      "3": "main_3",
+      "4": "mission",
+      "5": "mission_complete",
+      "6": "complete",
+      "7": "login",
+      "8": "home",
+      "9": "mail",
+      "10": "touch_body",
+      "11": "touch_head"
+    },
+    "l2d_voice_calibrate": {
+      "use_event": true
+    },
+    "l2d_para_range": {
+      "ParamAngleX": {
+        "0": -15,
+        "1": 15
+      },
+      "ParamAngleY": {
+        "0": -15,
+        "1": 15
+      },
+      "ParamBodyAngleX": {
+        "0": -8,
+        "1": 8
+      },
+      "ParamBodyAngleY": {
+        "0": -8,
+        "1": 8
+      },
+      "ParamEyeBallX": {
+        "0": -0.1,
+        "1": 0.1
+      },
+      "ParamEyeBallY": {
+        "0": -0.1,
+        "1": 0.1
+      }
+    },
+    "ship_l2d_id": {
+      "0": 23703101,
+      "1": 23703102,
+      "2": 23703103,
+      "3": 23703104,
+      "4": 23703105,
+      "5": 23703106,
+      "6": 23703107,
+      "7": 23703108,
+      "8": 23703109,
+      "9": 23703110,
+      "10": 23703111,
+      "11": 23703112,
+      "12": 23703113,
+      "13": 23703114,
+      "14": 23703115,
+      "15": 23703116,
+      "16": 23703117,
+      "17": 23703118,
+      "18": 23703119,
+      "19": 23703120,
+      "20": 23703121,
+      "21": 23703122,
+      "22": 23703123,
+      "23": 23703124,
+      "24": 23703125,
+      "25": 23703126,
+      "26": 23703127,
+      "27": 23703128,
+      "28": 23703129,
+      "29": 23703130,
+      "30": 23703131,
+      "31": 23703132,
+      "32": 23703133,
+      "33": 23703134,
+      "34": 23703135,
+      "35": 23703136,
+      "36": 23703137,
+      "37": 23703138,
+      "38": 23703139,
+      "39": 23703140,
+      "40": 23703141,
+      "41": 23703142,
+      "42": 23703143,
+      "43": 23703144,
+      "44": 23703145,
+      "45": 23703146,
+      "46": 23703147,
+      "47": 23703148,
+      "48": 23703149,
+      "49": 23703150,
+      "50": 23703151,
+      "51": 23703152,
+      "52": 23703153,
+      "53": 23703154,
+      "54": 23703155,
+      "55": 23703156,
+      "56": 23703157,
+      "57": 23703158,
+      "58": 23703159,
+      "59": 23703160,
+      "60": 23703161,
+      "61": 23703162
+    },
+    "get_showing": {
+      "show": 1,
+      "data": {
+        "0": {
+          "0": -462,
+          "1": -988,
+          "2": 2.5,
+          "3": 0,
+          "4": 149,
+          "5": 2
+        },
+        "1": {
+          "0": -794,
+          "1": 1085,
+          "2": 2.5,
+          "3": 149,
+          "4": 0,
+          "5": 2
+        },
+        "2": {
+          "0": 533,
+          "1": -221,
+          "2": 2.5,
+          "3": 0,
+          "4": -187,
           "5": 2
         }
       }
@@ -150508,6 +152339,547 @@
       }
     }
   },
+  "304090": {
+    "name": "{namecode:315}",
+    "change_skin": "",
+    "desc": "十三号型战列巡洋舰一一{namecode:315}",
+    "illustrator2": -1,
+    "ship_group": 30409,
+    "group_index": 0,
+    "purchase_offset": "",
+    "painting": "antu",
+    "lover_hand": "hand_1_02",
+    "skin_type": -1,
+    "shop_type_id": 0,
+    "l2d_ignore_drag": 0,
+    "hand_id": 2,
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "lover_kiss": "lip03",
+    "bg_sp": "",
+    "bg": "",
+    "bgm": "",
+    "spine_use_live2d": 0,
+    "spine_action_offset": false,
+    "shop_offset": "",
+    "id": 304090,
+    "voice_actor_2": -1,
+    "gyro": 0,
+    "ship_l2d_id": "",
+    "l2d_drag_rate": "",
+    "prefab": "antu",
+    "l2d_se": "",
+    "part_scale": "",
+    "get_showing": "",
+    "main_UI_FX": "",
+    "shop_id": 0,
+    "voice_actor": 522,
+    "shop_dynamic_hx": 0,
+    "illustrator": -1,
+    "rarity_bg": "",
+    "double_char": 0,
+    "skeleton_default_skin": "",
+    "voice_lang": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "live2d_offset_profile": "",
+    "show_skin": "stand",
+    "l2d_voice_calibrate": "",
+    "tag": {},
+    "live2d_offset": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "spine_offset_profile": {
+      "0": -20,
+      "1": -912,
+      "2": 0,
+      "3": 0.85
+    },
+    "fx_container": {
+      "0": {
+        "0": 0,
+        "1": 1.99185,
+        "2": 1.15
+      },
+      "1": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      },
+      "2": {
+        "0": 0,
+        "1": 0.75,
+        "2": -1.299
+      },
+      "3": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      }
+    },
+    "bound_bone": {
+      "cannon": {
+        "0": {
+          "0": 1.496,
+          "1": 1.342,
+          "2": 0
+        }
+      },
+      "vicegun": {
+        "0": {
+          "0": 1.842,
+          "1": 1.65,
+          "2": 0
+        }
+      },
+      "torpedo": {
+        "0": {
+          "0": 0,
+          "1": 0,
+          "2": 0
+        }
+      },
+      "antiaircraft": {
+        "0": {
+          "0": 0.747,
+          "1": 2.279,
+          "2": 0
+        }
+      }
+    },
+    "smoke": {
+      "0": {
+        "0": 50,
+        "1": {
+          "0": {
+            "0": "smoke",
+            "1": {
+              "0": -0.4,
+              "1": 2.4,
+              "2": 0
+            }
+          }
+        }
+      }
+    },
+    "spine_offset": {
+      "0": -15,
+      "1": -893,
+      "2": 0,
+      "3": 0.85
+    },
+    "special_effects": {
+      "0": "lihui_wuzang",
+      "1": {
+        "0": 61,
+        "1": -267,
+        "2": 0
+      },
+      "2": {
+        "0": 2.3
+      }
+    }
+  },
+  "304091": {
+    "name": "午夜的瑰色电梯",
+    "desc": "欢迎来到……被遗忘的楼层~呵呵，别着急关门，让我好好看看你——我已经等你很久很久了呢~",
+    "illustrator2": -1,
+    "ship_group": 30409,
+    "group_index": 1,
+    "purchase_offset": "",
+    "painting": "antu_2",
+    "lover_hand": "hand_1_02",
+    "skin_type": 4,
+    "shop_type_id": 29,
+    "l2d_ignore_drag": 0,
+    "hand_id": 2,
+    "lip_smoothing": 0,
+    "lover_kiss": "lip03",
+    "bg_sp": "",
+    "bg": "",
+    "bgm": "",
+    "spine_use_live2d": 0,
+    "spine_action_offset": false,
+    "spine_offset_profile": "",
+    "special_effects": "",
+    "id": 304091,
+    "voice_actor_2": -1,
+    "gyro": 0,
+    "l2d_drag_rate": "",
+    "prefab": "antu_2",
+    "l2d_se": "",
+    "part_scale": "",
+    "main_UI_FX": "",
+    "shop_id": 71398,
+    "voice_actor": 522,
+    "shop_dynamic_hx": 0,
+    "spine_offset": "",
+    "illustrator": -1,
+    "rarity_bg": "",
+    "double_char": 0,
+    "skeleton_default_skin": "",
+    "voice_lang": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "live2d_offset_profile": "",
+    "show_skin": "stand",
+    "tag": {
+      "0": 8,
+      "1": 1
+    },
+    "change_skin": {
+      "group": 30409,
+      "action": "changeBlack",
+      "next": 304092,
+      "state": 4,
+      "index": 1
+    },
+    "live2d_offset": {
+      "0": 41.5,
+      "1": -31,
+      "2": 0,
+      "3": 62.7
+    },
+    "shop_offset": {
+      "0": -122.3,
+      "1": 0,
+      "2": 0,
+      "3": 52
+    },
+    "fx_container": {
+      "0": {
+        "0": 0,
+        "1": 1.99185,
+        "2": 1.15
+      },
+      "1": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      },
+      "2": {
+        "0": 0,
+        "1": 0.75,
+        "2": -1.299
+      },
+      "3": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      }
+    },
+    "bound_bone": {
+      "cannon": {
+        "0": {
+          "0": 1.506,
+          "1": 1.393,
+          "2": 0
+        }
+      },
+      "vicegun": {
+        "0": {
+          "0": 1.868,
+          "1": 1.828,
+          "2": 0
+        }
+      },
+      "torpedo": {
+        "0": {
+          "0": -0.237,
+          "1": -0.016,
+          "2": 0
+        }
+      },
+      "antiaircraft": {
+        "0": {
+          "0": 0.8,
+          "1": 2.286,
+          "2": 0
+        }
+      }
+    },
+    "smoke": {
+      "0": {
+        "0": 50,
+        "1": {
+          "0": {
+            "0": "smoke",
+            "1": {
+              "0": -0.684,
+              "1": 2.472,
+              "2": 0
+            }
+          }
+        }
+      }
+    },
+    "l2d_animations": {
+      "0": "idle",
+      "1": "main_1",
+      "2": "main_2",
+      "3": "main_3",
+      "4": "mission",
+      "5": "mission_complete",
+      "6": "complete",
+      "7": "login",
+      "8": "home",
+      "9": "mail",
+      "10": "touch_body",
+      "11": "touch_head"
+    },
+    "l2d_voice_calibrate": {
+      "use_event": true
+    },
+    "ship_l2d_id": {
+      "0": 30409101,
+      "1": 30409102,
+      "2": 30409103,
+      "3": 30409104,
+      "4": 30409105,
+      "5": 30409106,
+      "6": 30409107,
+      "7": 30409108,
+      "8": 30409109,
+      "9": 30409110,
+      "10": 30409111,
+      "11": 30409112,
+      "12": 30409113,
+      "13": 30409114,
+      "14": 30409115,
+      "15": 30409116,
+      "16": 30409117,
+      "17": 30409118,
+      "18": 30409119,
+      "19": 30409120,
+      "20": 30409121,
+      "21": 30409122,
+      "22": 30409123,
+      "23": 30409124,
+      "24": 30409125,
+      "25": 30409126,
+      "26": 30409127,
+      "27": 30409128,
+      "28": 30409129,
+      "29": 30409130,
+      "30": 30409131,
+      "31": 30409132,
+      "32": 30409133,
+      "33": 30409134,
+      "34": 30409135,
+      "35": 30409136,
+      "36": 30409137,
+      "37": 30409138,
+      "38": 30409139,
+      "39": 30409140,
+      "40": 30409141,
+      "41": 30409142,
+      "42": 30409143,
+      "43": 30409144,
+      "44": 30409145,
+      "45": 30409146,
+      "46": 30409147,
+      "47": 30409148,
+      "48": 30409149,
+      "49": 30409150,
+      "50": 30409151,
+      "51": 30409152,
+      "52": 30409153,
+      "53": 30409154,
+      "54": 30409155,
+      "55": 30409156,
+      "56": 30409157,
+      "57": 30409158,
+      "58": 30409159,
+      "59": 30409160,
+      "60": 30409161,
+      "61": 30409162,
+      "62": 30409163,
+      "63": 30409164,
+      "64": 30409165
+    },
+    "get_showing": {
+      "show": 1,
+      "data": {
+        "0": {
+          "0": -55,
+          "1": 711,
+          "2": 2.5,
+          "3": -142,
+          "4": 0,
+          "5": 2
+        },
+        "1": {
+          "0": -113,
+          "1": -2,
+          "2": 2.5,
+          "3": 0,
+          "4": -178,
+          "5": 2
+        },
+        "2": {
+          "0": -511,
+          "1": -631,
+          "2": 2.5,
+          "3": 143,
+          "4": 0,
+          "5": 2
+        }
+      }
+    }
+  },
+  "304092": {
+    "name": "午夜的瑰色电梯",
+    "desc": "终于让我进来了啊，指挥官~虽然知道你不会轻易屈服，但像这样把你放倒也挺费力气的呢……那么，休息时间结束，我们该有些新发展了吧？",
+    "illustrator2": -1,
+    "ship_group": 30409,
+    "group_index": 2,
+    "purchase_offset": "",
+    "painting": "antu_3",
+    "lover_hand": "hand_1_02",
+    "skin_type": 4,
+    "shop_type_id": 29,
+    "l2d_ignore_drag": 0,
+    "hand_id": 2,
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "lover_kiss": "lip03",
+    "bg_sp": "",
+    "bg": "497",
+    "bgm": "",
+    "spine_use_live2d": 0,
+    "spine_action_offset": false,
+    "special_effects": "",
+    "id": 304092,
+    "voice_actor_2": -1,
+    "gyro": 0,
+    "ship_l2d_id": "",
+    "l2d_drag_rate": "",
+    "prefab": "antu_2",
+    "l2d_se": "",
+    "part_scale": "",
+    "get_showing": "",
+    "main_UI_FX": "",
+    "shop_id": 0,
+    "voice_actor": 522,
+    "shop_dynamic_hx": 0,
+    "illustrator": -1,
+    "rarity_bg": "",
+    "double_char": 0,
+    "skeleton_default_skin": "",
+    "voice_lang": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "live2d_offset_profile": "",
+    "show_skin": "stand",
+    "l2d_voice_calibrate": "",
+    "tag": {
+      "0": 8,
+      "1": 6,
+      "2": 2
+    },
+    "change_skin": {
+      "group": 30409,
+      "action": "changeBlack",
+      "next": 304091,
+      "state": 4,
+      "index": 2
+    },
+    "live2d_offset": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "shop_offset": {
+      "0": -15,
+      "1": 0,
+      "2": 0,
+      "3": 0.45
+    },
+    "spine_offset_profile": {
+      "0": 50.6,
+      "1": 15.9,
+      "2": 0,
+      "3": 0.45
+    },
+    "fx_container": {
+      "0": {
+        "0": 0,
+        "1": 1.99185,
+        "2": 1.15
+      },
+      "1": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      },
+      "2": {
+        "0": 0,
+        "1": 0.75,
+        "2": -1.299
+      },
+      "3": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      }
+    },
+    "bound_bone": {
+      "cannon": {
+        "0": {
+          "0": 0.16,
+          "1": 0.53,
+          "2": 0
+        }
+      },
+      "vicegun": {
+        "0": {
+          "0": 0.18,
+          "1": 0.49,
+          "2": 0
+        }
+      },
+      "torpedo": {
+        "0": {
+          "0": 0.16,
+          "1": 0.07,
+          "2": 0
+        }
+      },
+      "antiaircraft": {
+        "0": {
+          "0": 0.17,
+          "1": 0.45,
+          "2": 0
+        }
+      }
+    },
+    "smoke": {
+      "0": {
+        "0": 50,
+        "1": {
+          "0": {
+            "0": "smoke",
+            "1": {
+              "0": -0.49,
+              "1": 2.41,
+              "2": 0
+            }
+          }
+        }
+      }
+    },
+    "spine_offset": {
+      "0": 96.6,
+      "1": 0,
+      "2": 0,
+      "3": 0.52
+    }
+  },
   "305010": {
     "name": "{namecode:78}",
     "change_skin": "",
@@ -163450,6 +165822,129 @@
       "11": "touch_head"
     }
   },
+  "307053": {
+    "name": "{namecode:95}",
+    "change_skin": "",
+    "desc": "无描述",
+    "illustrator2": -1,
+    "ship_group": 30705,
+    "group_index": 3,
+    "purchase_offset": "",
+    "painting": "xianghe_4",
+    "lover_hand": "hand_1_02",
+    "skin_type": 4,
+    "shop_type_id": 0,
+    "l2d_ignore_drag": 0,
+    "hand_id": 2,
+    "lip_smoothing": 0,
+    "lover_kiss": "lip03",
+    "bg_sp": "",
+    "bg": "",
+    "bgm": "",
+    "spine_use_live2d": 0,
+    "spine_action_offset": false,
+    "spine_offset_profile": "",
+    "shop_offset": "",
+    "special_effects": "",
+    "id": 307053,
+    "voice_actor_2": -1,
+    "gyro": 0,
+    "ship_l2d_id": "",
+    "l2d_drag_rate": "",
+    "prefab": "xianghe_4",
+    "l2d_se": "",
+    "part_scale": "",
+    "get_showing": "",
+    "main_UI_FX": "",
+    "shop_id": 0,
+    "voice_actor": 46,
+    "shop_dynamic_hx": 0,
+    "spine_offset": "",
+    "illustrator": 14,
+    "rarity_bg": "",
+    "double_char": 0,
+    "skeleton_default_skin": "",
+    "voice_lang": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "live2d_offset_profile": "",
+    "show_skin": "stand",
+    "l2d_voice_calibrate": "",
+    "tag": {},
+    "live2d_offset": {
+      "0": 0,
+      "1": 70,
+      "2": 0
+    },
+    "fx_container": {
+      "0": {
+        "0": 0,
+        "1": 1.99185,
+        "2": 1.15
+      },
+      "1": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      },
+      "2": {
+        "0": 0,
+        "1": 0.75,
+        "2": -1.299
+      },
+      "3": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      }
+    },
+    "bound_bone": {
+      "antiaircraft": {
+        "0": {
+          "0": 0.834,
+          "1": 2.124,
+          "2": 0
+        }
+      },
+      "plane": {
+        "0": {
+          "0": 0.771,
+          "1": 0.882,
+          "2": 0
+        }
+      }
+    },
+    "smoke": {
+      "0": {
+        "0": 50,
+        "1": {
+          "0": {
+            "0": "smoke",
+            "1": {
+              "0": -0.64,
+              "1": 2.22,
+              "2": 0
+            }
+          }
+        }
+      }
+    },
+    "l2d_animations": {
+      "0": "idle",
+      "1": "main_1",
+      "2": "main_2",
+      "3": "main_3",
+      "4": "mission",
+      "5": "mission_complete",
+      "6": "complete",
+      "7": "login",
+      "8": "home",
+      "9": "mail",
+      "10": "touch_body",
+      "11": "touch_head"
+    }
+  },
   "307058": {
     "name": "鸣鹤衔禧",
     "change_skin": "",
@@ -167882,6 +170377,116 @@
       }
     }
   },
+  "307162": {
+    "name": "{namecode:302}",
+    "change_skin": "",
+    "desc": "无描述",
+    "illustrator2": -1,
+    "ship_group": 30716,
+    "group_index": 2,
+    "purchase_offset": "",
+    "painting": "baifeng_3",
+    "lover_hand": "hand_1_02",
+    "skin_type": 4,
+    "shop_type_id": 0,
+    "l2d_ignore_drag": 0,
+    "hand_id": 2,
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "lover_kiss": "lip03",
+    "bg_sp": "",
+    "bg": "",
+    "bgm": "",
+    "spine_use_live2d": 0,
+    "spine_action_offset": false,
+    "spine_offset_profile": "",
+    "shop_offset": "",
+    "special_effects": "",
+    "id": 307162,
+    "voice_actor_2": -1,
+    "gyro": 0,
+    "ship_l2d_id": "",
+    "l2d_drag_rate": "",
+    "prefab": "baifeng_3",
+    "l2d_se": "",
+    "part_scale": "",
+    "get_showing": "",
+    "main_UI_FX": "",
+    "shop_id": 0,
+    "voice_actor": 220,
+    "shop_dynamic_hx": 0,
+    "spine_offset": "",
+    "illustrator": -1,
+    "rarity_bg": "",
+    "double_char": 0,
+    "skeleton_default_skin": "",
+    "voice_lang": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "live2d_offset_profile": "",
+    "show_skin": "stand",
+    "l2d_voice_calibrate": "",
+    "tag": {},
+    "live2d_offset": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "fx_container": {
+      "0": {
+        "0": 0,
+        "1": 1.99185,
+        "2": 1.15
+      },
+      "1": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      },
+      "2": {
+        "0": 0,
+        "1": 0.75,
+        "2": -1.299
+      },
+      "3": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      }
+    },
+    "bound_bone": {
+      "antiaircraft": {
+        "0": {
+          "0": 0.596,
+          "1": 2.385,
+          "2": 0
+        }
+      },
+      "plane": {
+        "0": {
+          "0": 1.325,
+          "1": 1.218,
+          "2": 0
+        }
+      }
+    },
+    "smoke": {
+      "0": {
+        "0": 50,
+        "1": {
+          "0": {
+            "0": "smoke",
+            "1": {
+              "0": -0.64,
+              "1": 2.45,
+              "2": 0
+            }
+          }
+        }
+      }
+    }
+  },
   "307170": {
     "name": "{namecode:209}",
     "change_skin": "",
@@ -171469,6 +174074,286 @@
           "2": 2,
           "3": 0,
           "4": -120,
+          "5": 2
+        }
+      }
+    }
+  },
+  "317030": {
+    "name": "{namecode:314}",
+    "change_skin": "",
+    "desc": "巡潜甲型改二型潜水舰一一 {namecode:314}",
+    "illustrator2": -1,
+    "ship_group": 31703,
+    "group_index": 0,
+    "purchase_offset": "",
+    "painting": "i14",
+    "lover_hand": "hand_3_02",
+    "skin_type": -1,
+    "shop_type_id": 0,
+    "l2d_ignore_drag": 0,
+    "hand_id": 14,
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "lover_kiss": "lip01",
+    "bg_sp": "",
+    "bg": "",
+    "bgm": "",
+    "spine_use_live2d": 0,
+    "spine_action_offset": false,
+    "spine_offset_profile": "",
+    "shop_offset": "",
+    "special_effects": "",
+    "id": 317030,
+    "voice_actor_2": -1,
+    "gyro": 0,
+    "ship_l2d_id": "",
+    "l2d_drag_rate": "",
+    "prefab": "i14",
+    "l2d_se": "",
+    "part_scale": "",
+    "get_showing": "",
+    "main_UI_FX": "",
+    "shop_id": 0,
+    "voice_actor": 523,
+    "shop_dynamic_hx": 0,
+    "spine_offset": "",
+    "illustrator": -1,
+    "rarity_bg": "",
+    "double_char": 0,
+    "skeleton_default_skin": "",
+    "voice_lang": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "live2d_offset_profile": "",
+    "show_skin": "stand",
+    "l2d_voice_calibrate": "",
+    "tag": {},
+    "live2d_offset": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "fx_container": {
+      "0": {
+        "0": 0,
+        "1": 1.99185,
+        "2": 1.15
+      },
+      "1": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      },
+      "2": {
+        "0": 0,
+        "1": 0.75,
+        "2": -1.299
+      },
+      "3": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      }
+    },
+    "bound_bone": {
+      "cannon": {
+        "0": {
+          "0": 0.955,
+          "1": 0.806,
+          "2": 0
+        }
+      },
+      "torpedo": {
+        "0": {
+          "0": 0,
+          "1": 0,
+          "2": 0
+        }
+      }
+    },
+    "smoke": {
+      "0": {
+        "0": 50,
+        "1": {
+          "0": {
+            "0": "smoke",
+            "1": {
+              "0": -0.55,
+              "1": 2.21,
+              "2": 0
+            }
+          }
+        }
+      }
+    }
+  },
+  "317031": {
+    "name": "千面皆虚无",
+    "change_skin": "",
+    "desc": "还是被你找到了啊，明明我已经换了很多次面容……嗯，我就是你们认知中的“异常”，现在你想怎么处置我？",
+    "illustrator2": -1,
+    "ship_group": 31703,
+    "group_index": 1,
+    "purchase_offset": "",
+    "painting": "i14_2",
+    "lover_hand": "hand_2_02",
+    "skin_type": 4,
+    "shop_type_id": 29,
+    "l2d_ignore_drag": 0,
+    "hand_id": 14,
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "lover_kiss": "lip02",
+    "bg_sp": "",
+    "bg": "142",
+    "bgm": "",
+    "spine_use_live2d": 0,
+    "spine_action_offset": false,
+    "special_effects": "",
+    "id": 317031,
+    "voice_actor_2": -1,
+    "gyro": 0,
+    "ship_l2d_id": "",
+    "l2d_drag_rate": "",
+    "prefab": "i14_2",
+    "l2d_se": "",
+    "part_scale": "",
+    "main_UI_FX": "",
+    "shop_id": 71399,
+    "voice_actor": 523,
+    "shop_dynamic_hx": 0,
+    "illustrator": -1,
+    "rarity_bg": "",
+    "double_char": 0,
+    "skeleton_default_skin": "",
+    "voice_lang": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "live2d_offset_profile": "",
+    "show_skin": "stand",
+    "l2d_voice_calibrate": "",
+    "tag": {
+      "0": 6,
+      "1": 2
+    },
+    "live2d_offset": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "shop_offset": {
+      "0": -241.3,
+      "1": -552.4,
+      "2": 0,
+      "3": 0.8
+    },
+    "spine_offset_profile": {
+      "0": -182.6,
+      "1": -553.9,
+      "2": 0,
+      "3": 0.8
+    },
+    "fx_container": {
+      "0": {
+        "0": 0,
+        "1": 1.99185,
+        "2": 1.15
+      },
+      "1": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      },
+      "2": {
+        "0": 0,
+        "1": 0.75,
+        "2": -1.299
+      },
+      "3": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      }
+    },
+    "bound_bone": {
+      "cannon": {
+        "0": {
+          "0": 0.794,
+          "1": 0.762,
+          "2": 0
+        }
+      },
+      "vicegun": {
+        "0": {
+          "0": 0.95,
+          "1": 0.851,
+          "2": 0
+        }
+      },
+      "torpedo": {
+        "0": {
+          "0": -0.146,
+          "1": -0.113,
+          "2": 0
+        }
+      },
+      "antiaircraft": {
+        "0": {
+          "0": 0.606,
+          "1": 2.216,
+          "2": 0
+        }
+      }
+    },
+    "smoke": {
+      "0": {
+        "0": 50,
+        "1": {
+          "0": {
+            "0": "smoke",
+            "1": {
+              "0": -0.829,
+              "1": 2.503,
+              "2": 0
+            }
+          }
+        }
+      }
+    },
+    "spine_offset": {
+      "0": -131,
+      "1": -712,
+      "2": 0,
+      "3": 0.96
+    },
+    "get_showing": {
+      "show": 1,
+      "data": {
+        "0": {
+          "0": 1176,
+          "1": 572,
+          "2": 2,
+          "3": 0,
+          "4": 133,
+          "5": 2
+        },
+        "1": {
+          "0": 248,
+          "1": 695,
+          "2": 2,
+          "3": -168,
+          "4": 0,
+          "5": 2
+        },
+        "2": {
+          "0": -618,
+          "1": -375,
+          "2": 2,
+          "3": 0,
+          "4": -168,
           "5": 2
         }
       }
@@ -191030,6 +193915,135 @@
       "3": 0.3
     }
   },
+  "403113": {
+    "name": "{namecode:457}",
+    "change_skin": "",
+    "desc": "无描述",
+    "illustrator2": -1,
+    "ship_group": 40311,
+    "group_index": 3,
+    "purchase_offset": "",
+    "painting": "yueke_ger_4",
+    "lover_hand": "hand_1_02",
+    "skin_type": 4,
+    "shop_type_id": 0,
+    "l2d_ignore_drag": 0,
+    "hand_id": 1,
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "lover_kiss": "lip03",
+    "bg_sp": "",
+    "bg": "",
+    "bgm": "",
+    "spine_use_live2d": 0,
+    "spine_action_offset": false,
+    "spine_offset_profile": "",
+    "shop_offset": "",
+    "special_effects": "",
+    "id": 403113,
+    "voice_actor_2": -1,
+    "gyro": 0,
+    "ship_l2d_id": "",
+    "l2d_drag_rate": "",
+    "prefab": "yueke_ger_4",
+    "l2d_se": "",
+    "part_scale": "",
+    "get_showing": "",
+    "main_UI_FX": "",
+    "shop_id": 0,
+    "voice_actor": 313,
+    "shop_dynamic_hx": 0,
+    "illustrator": -1,
+    "rarity_bg": "",
+    "double_char": 0,
+    "skeleton_default_skin": "",
+    "voice_lang": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "live2d_offset_profile": "",
+    "show_skin": "stand",
+    "l2d_voice_calibrate": "",
+    "tag": {},
+    "live2d_offset": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "fx_container": {
+      "0": {
+        "0": 0,
+        "1": 1.99185,
+        "2": 1.15
+      },
+      "1": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      },
+      "2": {
+        "0": 0,
+        "1": 0.75,
+        "2": -1.299
+      },
+      "3": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      }
+    },
+    "bound_bone": {
+      "cannon": {
+        "0": {
+          "0": 1.449,
+          "1": 1.211,
+          "2": 0
+        }
+      },
+      "vicegun": {
+        "0": {
+          "0": 1.162,
+          "1": 1.093,
+          "2": 0
+        }
+      },
+      "torpedo": {
+        "0": {
+          "0": 0.021,
+          "1": 0.01,
+          "2": 0
+        }
+      },
+      "antiaircraft": {
+        "0": {
+          "0": 0.802,
+          "1": 2.381,
+          "2": 0
+        }
+      }
+    },
+    "smoke": {
+      "0": {
+        "0": 50,
+        "1": {
+          "0": {
+            "0": "smoke",
+            "1": {
+              "0": -0.674,
+              "1": 2.522,
+              "2": 0
+            }
+          }
+        }
+      }
+    },
+    "spine_offset": {
+      "0": -62,
+      "1": -408,
+      "2": 0,
+      "3": 0.3
+    }
+  },
   "403120": {
     "name": "{namecode:458}",
     "change_skin": "",
@@ -191730,6 +194744,293 @@
           "3": 300,
           "4": -114,
           "5": 2.5
+        }
+      }
+    }
+  },
+  "403143": {
+    "name": "午夜频道",
+    "change_skin": "",
+    "desc": "呵呵……找到您了哦，我的指挥官~等我出来……就让我用这冰凉的手指，好好触碰一下我最爱的人……♡",
+    "illustrator2": -1,
+    "ship_group": 40314,
+    "group_index": 3,
+    "purchase_offset": "",
+    "painting": "feiteliekaer_4",
+    "lover_hand": "hand_1_02",
+    "skin_type": 4,
+    "shop_type_id": 29,
+    "l2d_ignore_drag": 0,
+    "hand_id": 1,
+    "lip_smoothing": 0,
+    "lover_kiss": "lip03",
+    "bg_sp": "",
+    "bg": "310",
+    "bgm": "",
+    "spine_use_live2d": 0,
+    "spine_action_offset": false,
+    "spine_offset_profile": "",
+    "special_effects": "",
+    "id": 403143,
+    "voice_actor_2": -1,
+    "gyro": 0,
+    "l2d_drag_rate": "",
+    "prefab": "feiteliekaer_4",
+    "l2d_se": "",
+    "part_scale": "",
+    "main_UI_FX": "",
+    "shop_id": 71402,
+    "voice_actor": 175,
+    "shop_dynamic_hx": 0,
+    "spine_offset": "",
+    "illustrator": -1,
+    "rarity_bg": "",
+    "double_char": 0,
+    "skeleton_default_skin": "",
+    "voice_lang": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "live2d_offset_profile": "",
+    "show_skin": "stand",
+    "tag": {
+      "0": 9,
+      "1": 2
+    },
+    "live2d_offset": {
+      "0": -61.5,
+      "1": -21.5,
+      "2": 0,
+      "3": 47.6
+    },
+    "shop_offset": {
+      "0": 0,
+      "1": 30.7,
+      "2": 0,
+      "3": 41
+    },
+    "fx_container": {
+      "0": {
+        "0": 0,
+        "1": 1.99185,
+        "2": 1.15
+      },
+      "1": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      },
+      "2": {
+        "0": 0,
+        "1": 0.75,
+        "2": -1.299
+      },
+      "3": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      }
+    },
+    "bound_bone": {
+      "cannon": {
+        "0": {
+          "0": 1.583,
+          "1": 1.345,
+          "2": 0
+        }
+      },
+      "vicegun": {
+        "0": {
+          "0": 1.867,
+          "1": 2.386,
+          "2": 0
+        }
+      },
+      "torpedo": {
+        "0": {
+          "0": 0.021,
+          "1": 0.01,
+          "2": 0
+        }
+      },
+      "antiaircraft": {
+        "0": {
+          "0": 0.858,
+          "1": 2.202,
+          "2": 0
+        }
+      }
+    },
+    "smoke": {
+      "0": {
+        "0": 50,
+        "1": {
+          "0": {
+            "0": "smoke",
+            "1": {
+              "0": -0.878,
+              "1": 2.152,
+              "2": 0
+            }
+          }
+        }
+      }
+    },
+    "l2d_animations": {
+      "0": "idle",
+      "1": "main_1",
+      "2": "main_2",
+      "3": "main_3",
+      "4": "mission",
+      "5": "mission_complete",
+      "6": "complete",
+      "7": "login",
+      "8": "home",
+      "9": "mail",
+      "10": "touch_body",
+      "11": "touch_head"
+    },
+    "l2d_voice_calibrate": {
+      "use_event": true
+    },
+    "ship_l2d_id": {
+      "0": 40314301,
+      "1": 40314302,
+      "2": 40314303,
+      "3": 40314304,
+      "4": 40314305,
+      "5": 40314306,
+      "6": 40314307,
+      "7": 40314308,
+      "8": 40314309,
+      "9": 40314310,
+      "10": 40314311,
+      "11": 40314312,
+      "12": 40314313,
+      "13": 40314314,
+      "14": 40314315,
+      "15": 40314316,
+      "16": 40314317,
+      "17": 40314318,
+      "18": 40314319,
+      "19": 40314320,
+      "20": 40314321,
+      "21": 40314322,
+      "22": 40314323,
+      "23": 40314324,
+      "24": 40314325,
+      "25": 40314326,
+      "26": 40314327,
+      "27": 40314328,
+      "28": 40314329,
+      "29": 40314330,
+      "30": 40314331,
+      "31": 40314332,
+      "32": 40314333,
+      "33": 40314334,
+      "34": 40314335,
+      "35": 40314336,
+      "36": 40314337,
+      "37": 40314338,
+      "38": 40314339,
+      "39": 40314340,
+      "40": 40314341,
+      "41": 40314342,
+      "42": 40314343,
+      "43": 40314344,
+      "44": 40314345,
+      "45": 40314346,
+      "46": 40314347,
+      "47": 40314348,
+      "48": 40314349,
+      "49": 40314350,
+      "50": 40314351,
+      "51": 40314352,
+      "52": 40314353,
+      "53": 40314354,
+      "54": 40314355,
+      "55": 40314356,
+      "56": 40314357,
+      "57": 40314358,
+      "58": 40314359,
+      "59": 40314360,
+      "60": 40314361,
+      "61": 40314362,
+      "62": 40314363,
+      "63": 40314364,
+      "64": 40314365,
+      "65": 40314366,
+      "66": 40314367,
+      "67": 40314368,
+      "68": 40314369,
+      "69": 40314370,
+      "70": 40314371,
+      "71": 40314372,
+      "72": 40314373,
+      "73": 40314374,
+      "74": 40314375,
+      "75": 40314376,
+      "76": 40314377,
+      "77": 40314378,
+      "78": 40314379,
+      "79": 40314380,
+      "80": 40314381,
+      "81": 40314382,
+      "82": 40314383,
+      "83": 40314384,
+      "84": 40314385,
+      "85": 40314386,
+      "86": 40314387,
+      "87": 40314388,
+      "88": 40314389,
+      "89": 40314390,
+      "90": 40314391,
+      "91": 40314392,
+      "92": 40314393,
+      "93": 40314394,
+      "94": 40314395,
+      "95": 40314396,
+      "96": 40314397,
+      "97": 40314398,
+      "98": 40314399,
+      "99": 40314400,
+      "100": 40314401,
+      "101": 40314402,
+      "102": 40314403,
+      "103": 40314404,
+      "104": 40314405,
+      "105": 40314406,
+      "106": 40314407,
+      "107": 40314408,
+      "108": 40314409,
+      "109": 40314410
+    },
+    "get_showing": {
+      "show": 1,
+      "data": {
+        "0": {
+          "0": -692,
+          "1": -525,
+          "2": 2,
+          "3": 0,
+          "4": 120,
+          "5": 2
+        },
+        "1": {
+          "0": -567,
+          "1": 542,
+          "2": 2,
+          "3": 151,
+          "4": 0,
+          "5": 2
+        },
+        "2": {
+          "0": 782,
+          "1": 40,
+          "2": 2,
+          "3": 0,
+          "4": -180,
+          "5": 2
         }
       }
     }
@@ -308113,6 +311414,708 @@
       }
     }
   },
+  "900557": {
+    "name": "{namecode:23}",
+    "change_skin": "",
+    "desc": "无描述",
+    "illustrator2": -1,
+    "ship_group": 900557,
+    "group_index": 0,
+    "purchase_offset": "",
+    "painting": "npctianjinfeng_2",
+    "lover_hand": "hand_1_02",
+    "skin_type": -1,
+    "shop_type_id": 0,
+    "l2d_ignore_drag": 0,
+    "hand_id": 1,
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "lover_kiss": "lip03",
+    "bg_sp": "",
+    "bg": "",
+    "bgm": "",
+    "spine_use_live2d": 0,
+    "spine_action_offset": false,
+    "spine_offset_profile": "",
+    "shop_offset": "",
+    "special_effects": "",
+    "id": 900557,
+    "voice_actor_2": -1,
+    "gyro": 0,
+    "ship_l2d_id": "",
+    "l2d_drag_rate": "",
+    "prefab": "npctianjinfeng_2",
+    "l2d_se": "",
+    "part_scale": "",
+    "get_showing": "",
+    "main_UI_FX": "",
+    "shop_id": 0,
+    "voice_actor": -1,
+    "shop_dynamic_hx": 0,
+    "spine_offset": "",
+    "illustrator": -1,
+    "rarity_bg": "",
+    "double_char": 0,
+    "skeleton_default_skin": "",
+    "voice_lang": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "live2d_offset_profile": "",
+    "show_skin": "stand",
+    "l2d_voice_calibrate": "",
+    "tag": {},
+    "live2d_offset": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "fx_container": {
+      "0": {
+        "0": 0,
+        "1": 1.99185,
+        "2": 1.15
+      },
+      "1": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      },
+      "2": {
+        "0": 0,
+        "1": 0.75,
+        "2": -1.299
+      },
+      "3": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      }
+    },
+    "bound_bone": {
+      "cannon": {
+        "0": {
+          "0": 1.17,
+          "1": 5,
+          "2": 0
+        }
+      },
+      "torpedo": {
+        "0": {
+          "0": 0.04,
+          "1": 0.89,
+          "2": 0
+        }
+      },
+      "plane": {
+        "0": {
+          "0": -1.02,
+          "1": 3.05,
+          "2": 0
+        }
+      }
+    },
+    "smoke": {
+      "0": {
+        "0": 70,
+        "1": {
+          "0": {
+            "0": "smokebig",
+            "1": {
+              "0": -0.62,
+              "1": 2.54,
+              "2": 0
+            }
+          }
+        }
+      }
+    }
+  },
+  "900558": {
+    "name": "埃米尔·贝尔汀",
+    "change_skin": "",
+    "desc": "无描述",
+    "illustrator2": -1,
+    "ship_group": 900558,
+    "group_index": 0,
+    "purchase_offset": "",
+    "painting": "npcaimierbeierding_5",
+    "lover_hand": "hand_1_02",
+    "skin_type": -1,
+    "shop_type_id": 0,
+    "l2d_ignore_drag": 0,
+    "hand_id": 1,
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "lover_kiss": "lip03",
+    "bg_sp": "",
+    "bg": "",
+    "bgm": "",
+    "spine_use_live2d": 0,
+    "spine_action_offset": false,
+    "spine_offset_profile": "",
+    "shop_offset": "",
+    "special_effects": "",
+    "id": 900558,
+    "voice_actor_2": -1,
+    "gyro": 0,
+    "ship_l2d_id": "",
+    "l2d_drag_rate": "",
+    "prefab": "npcaimierbeierding_5",
+    "l2d_se": "",
+    "part_scale": "",
+    "get_showing": "",
+    "main_UI_FX": "",
+    "shop_id": 0,
+    "voice_actor": -1,
+    "shop_dynamic_hx": 0,
+    "spine_offset": "",
+    "illustrator": -1,
+    "rarity_bg": "",
+    "double_char": 0,
+    "skeleton_default_skin": "",
+    "voice_lang": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "live2d_offset_profile": "",
+    "show_skin": "stand",
+    "l2d_voice_calibrate": "",
+    "tag": {},
+    "live2d_offset": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "fx_container": {
+      "0": {
+        "0": 0,
+        "1": 1.99185,
+        "2": 1.15
+      },
+      "1": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      },
+      "2": {
+        "0": 0,
+        "1": 0.75,
+        "2": -1.299
+      },
+      "3": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      }
+    },
+    "bound_bone": {
+      "cannon": {
+        "0": {
+          "0": 1.17,
+          "1": 5,
+          "2": 0
+        }
+      },
+      "torpedo": {
+        "0": {
+          "0": 0.04,
+          "1": 0.89,
+          "2": 0
+        }
+      },
+      "plane": {
+        "0": {
+          "0": -1.02,
+          "1": 3.05,
+          "2": 0
+        }
+      }
+    },
+    "smoke": {
+      "0": {
+        "0": 70,
+        "1": {
+          "0": {
+            "0": "smokebig",
+            "1": {
+              "0": -0.62,
+              "1": 2.54,
+              "2": 0
+            }
+          }
+        }
+      }
+    }
+  },
+  "900559": {
+    "name": "？？",
+    "change_skin": "",
+    "desc": "无描述",
+    "illustrator2": -1,
+    "ship_group": 900559,
+    "group_index": 0,
+    "purchase_offset": "",
+    "painting": "npcshi_3",
+    "lover_hand": "hand_1_02",
+    "skin_type": -1,
+    "shop_type_id": 0,
+    "l2d_ignore_drag": 0,
+    "hand_id": 1,
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "lover_kiss": "lip03",
+    "bg_sp": "",
+    "bg": "",
+    "bgm": "",
+    "spine_use_live2d": 0,
+    "spine_action_offset": false,
+    "spine_offset_profile": "",
+    "shop_offset": "",
+    "special_effects": "",
+    "id": 900559,
+    "voice_actor_2": -1,
+    "gyro": 0,
+    "ship_l2d_id": "",
+    "l2d_drag_rate": "",
+    "prefab": "npcshi_3",
+    "l2d_se": "",
+    "part_scale": "",
+    "get_showing": "",
+    "main_UI_FX": "",
+    "shop_id": 0,
+    "voice_actor": -1,
+    "shop_dynamic_hx": 0,
+    "spine_offset": "",
+    "illustrator": -1,
+    "rarity_bg": "",
+    "double_char": 0,
+    "skeleton_default_skin": "",
+    "voice_lang": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "live2d_offset_profile": "",
+    "show_skin": "stand",
+    "l2d_voice_calibrate": "",
+    "tag": {},
+    "live2d_offset": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "fx_container": {
+      "0": {
+        "0": 0,
+        "1": 1.99185,
+        "2": 1.15
+      },
+      "1": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      },
+      "2": {
+        "0": 0,
+        "1": 0.75,
+        "2": -1.299
+      },
+      "3": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      }
+    },
+    "bound_bone": {
+      "cannon": {
+        "0": {
+          "0": 1.17,
+          "1": 5,
+          "2": 0
+        }
+      },
+      "torpedo": {
+        "0": {
+          "0": 0.04,
+          "1": 0.89,
+          "2": 0
+        }
+      },
+      "plane": {
+        "0": {
+          "0": -1.02,
+          "1": 3.05,
+          "2": 0
+        }
+      }
+    },
+    "smoke": {
+      "0": {
+        "0": 70,
+        "1": {
+          "0": {
+            "0": "smokebig",
+            "1": {
+              "0": -0.62,
+              "1": 2.54,
+              "2": 0
+            }
+          }
+        }
+      }
+    }
+  },
+  "900560": {
+    "name": "？？？",
+    "change_skin": "",
+    "desc": "无描述",
+    "illustrator2": -1,
+    "ship_group": 900560,
+    "group_index": 0,
+    "purchase_offset": "",
+    "painting": "npcjinluhao_3",
+    "lover_hand": "hand_1_02",
+    "skin_type": -1,
+    "shop_type_id": 0,
+    "l2d_ignore_drag": 0,
+    "hand_id": 1,
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "lover_kiss": "lip03",
+    "bg_sp": "",
+    "bg": "",
+    "bgm": "",
+    "spine_use_live2d": 0,
+    "spine_action_offset": false,
+    "spine_offset_profile": "",
+    "shop_offset": "",
+    "special_effects": "",
+    "id": 900560,
+    "voice_actor_2": -1,
+    "gyro": 0,
+    "ship_l2d_id": "",
+    "l2d_drag_rate": "",
+    "prefab": "npcjinluhao_3",
+    "l2d_se": "",
+    "part_scale": "",
+    "get_showing": "",
+    "main_UI_FX": "",
+    "shop_id": 0,
+    "voice_actor": -1,
+    "shop_dynamic_hx": 0,
+    "spine_offset": "",
+    "illustrator": -1,
+    "rarity_bg": "",
+    "double_char": 0,
+    "skeleton_default_skin": "",
+    "voice_lang": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "live2d_offset_profile": "",
+    "show_skin": "stand",
+    "l2d_voice_calibrate": "",
+    "tag": {},
+    "live2d_offset": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "fx_container": {
+      "0": {
+        "0": 0,
+        "1": 1.99185,
+        "2": 1.15
+      },
+      "1": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      },
+      "2": {
+        "0": 0,
+        "1": 0.75,
+        "2": -1.299
+      },
+      "3": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      }
+    },
+    "bound_bone": {
+      "cannon": {
+        "0": {
+          "0": 1.17,
+          "1": 5,
+          "2": 0
+        }
+      },
+      "torpedo": {
+        "0": {
+          "0": 0.04,
+          "1": 0.89,
+          "2": 0
+        }
+      },
+      "plane": {
+        "0": {
+          "0": -1.02,
+          "1": 3.05,
+          "2": 0
+        }
+      }
+    },
+    "smoke": {
+      "0": {
+        "0": 70,
+        "1": {
+          "0": {
+            "0": "smokebig",
+            "1": {
+              "0": -0.62,
+              "1": 2.54,
+              "2": 0
+            }
+          }
+        }
+      }
+    }
+  },
+  "900561": {
+    "name": "光辉",
+    "change_skin": "",
+    "desc": "无描述",
+    "illustrator2": -1,
+    "ship_group": 900561,
+    "group_index": 0,
+    "purchase_offset": "",
+    "painting": "npcguanghui_9",
+    "lover_hand": "hand_1_02",
+    "skin_type": -1,
+    "shop_type_id": 0,
+    "l2d_ignore_drag": 0,
+    "hand_id": 1,
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "lover_kiss": "lip03",
+    "bg_sp": "",
+    "bg": "",
+    "bgm": "",
+    "spine_use_live2d": 0,
+    "spine_action_offset": false,
+    "spine_offset_profile": "",
+    "shop_offset": "",
+    "special_effects": "",
+    "id": 900561,
+    "voice_actor_2": -1,
+    "gyro": 0,
+    "ship_l2d_id": "",
+    "l2d_drag_rate": "",
+    "prefab": "npcguanghui_9",
+    "l2d_se": "",
+    "part_scale": "",
+    "get_showing": "",
+    "main_UI_FX": "",
+    "shop_id": 0,
+    "voice_actor": -1,
+    "shop_dynamic_hx": 0,
+    "spine_offset": "",
+    "illustrator": -1,
+    "rarity_bg": "",
+    "double_char": 0,
+    "skeleton_default_skin": "",
+    "voice_lang": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "live2d_offset_profile": "",
+    "show_skin": "stand",
+    "l2d_voice_calibrate": "",
+    "tag": {},
+    "live2d_offset": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "fx_container": {
+      "0": {
+        "0": 0,
+        "1": 1.99185,
+        "2": 1.15
+      },
+      "1": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      },
+      "2": {
+        "0": 0,
+        "1": 0.75,
+        "2": -1.299
+      },
+      "3": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      }
+    },
+    "bound_bone": {
+      "cannon": {
+        "0": {
+          "0": 1.17,
+          "1": 5,
+          "2": 0
+        }
+      },
+      "torpedo": {
+        "0": {
+          "0": 0.04,
+          "1": 0.89,
+          "2": 0
+        }
+      },
+      "plane": {
+        "0": {
+          "0": -1.02,
+          "1": 3.05,
+          "2": 0
+        }
+      }
+    },
+    "smoke": {
+      "0": {
+        "0": 70,
+        "1": {
+          "0": {
+            "0": "smokebig",
+            "1": {
+              "0": -0.62,
+              "1": 2.54,
+              "2": 0
+            }
+          }
+        }
+      }
+    }
+  },
+  "900562": {
+    "name": "{namecode:315}",
+    "change_skin": "",
+    "desc": "无描述",
+    "illustrator2": -1,
+    "ship_group": 900562,
+    "group_index": 0,
+    "purchase_offset": "",
+    "painting": "npcantu_2",
+    "lover_hand": "hand_1_02",
+    "skin_type": -1,
+    "shop_type_id": 0,
+    "l2d_ignore_drag": 0,
+    "hand_id": 1,
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "lover_kiss": "lip03",
+    "bg_sp": "",
+    "bg": "",
+    "bgm": "",
+    "spine_use_live2d": 0,
+    "spine_action_offset": false,
+    "spine_offset_profile": "",
+    "shop_offset": "",
+    "special_effects": "",
+    "id": 900562,
+    "voice_actor_2": -1,
+    "gyro": 0,
+    "ship_l2d_id": "",
+    "l2d_drag_rate": "",
+    "prefab": "npcantu_2",
+    "l2d_se": "",
+    "part_scale": "",
+    "get_showing": "",
+    "main_UI_FX": "",
+    "shop_id": 0,
+    "voice_actor": -1,
+    "shop_dynamic_hx": 0,
+    "spine_offset": "",
+    "illustrator": -1,
+    "rarity_bg": "",
+    "double_char": 0,
+    "skeleton_default_skin": "",
+    "voice_lang": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "live2d_offset_profile": "",
+    "show_skin": "stand",
+    "l2d_voice_calibrate": "",
+    "tag": {},
+    "live2d_offset": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "fx_container": {
+      "0": {
+        "0": 0,
+        "1": 1.99185,
+        "2": 1.15
+      },
+      "1": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      },
+      "2": {
+        "0": 0,
+        "1": 0.75,
+        "2": -1.299
+      },
+      "3": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      }
+    },
+    "bound_bone": {
+      "cannon": {
+        "0": {
+          "0": 1.17,
+          "1": 5,
+          "2": 0
+        }
+      },
+      "torpedo": {
+        "0": {
+          "0": 0.04,
+          "1": 0.89,
+          "2": 0
+        }
+      },
+      "plane": {
+        "0": {
+          "0": -1.02,
+          "1": 3.05,
+          "2": 0
+        }
+      }
+    },
+    "smoke": {
+      "0": {
+        "0": 70,
+        "1": {
+          "0": {
+            "0": "smokebig",
+            "1": {
+              "0": -0.62,
+              "1": 2.54,
+              "2": 0
+            }
+          }
+        }
+      }
+    }
+  },
   "1101010": {
     "name": "埃佛森",
     "change_skin": "",
@@ -310061,6 +314064,254 @@
       "0": 0.5,
       "1": 1,
       "2": 1
+    }
+  },
+  "9600032": {
+    "name": "金鹿号",
+    "change_skin": "",
+    "desc": "无描述",
+    "illustrator2": -1,
+    "ship_group": 960003,
+    "group_index": 2,
+    "purchase_offset": "",
+    "painting": "jinluhao_3",
+    "lover_hand": "hand_1_02",
+    "skin_type": 4,
+    "shop_type_id": 0,
+    "l2d_ignore_drag": 0,
+    "hand_id": 1,
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "lover_kiss": "lip03",
+    "bg_sp": "",
+    "bg": "",
+    "bgm": "",
+    "spine_use_live2d": 0,
+    "spine_action_offset": false,
+    "spine_offset_profile": "",
+    "shop_offset": "",
+    "special_effects": "",
+    "id": 9600032,
+    "voice_actor_2": -1,
+    "gyro": 0,
+    "ship_l2d_id": "",
+    "l2d_drag_rate": "",
+    "prefab": "jinluhao_3",
+    "l2d_se": "",
+    "part_scale": "",
+    "get_showing": "",
+    "main_UI_FX": "",
+    "shop_id": 0,
+    "voice_actor": 384,
+    "shop_dynamic_hx": 0,
+    "spine_offset": "",
+    "illustrator": -1,
+    "rarity_bg": "",
+    "double_char": 0,
+    "skeleton_default_skin": "",
+    "voice_lang": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "live2d_offset_profile": "",
+    "show_skin": "stand",
+    "l2d_voice_calibrate": "",
+    "tag": {},
+    "live2d_offset": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "fx_container": {
+      "0": {
+        "0": 0,
+        "1": 1.99185,
+        "2": 1.15
+      },
+      "1": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      },
+      "2": {
+        "0": 0,
+        "1": 0.75,
+        "2": -1.299
+      },
+      "3": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      }
+    },
+    "bound_bone": {
+      "cannon": {
+        "0": {
+          "0": 1.001,
+          "1": 1.008,
+          "2": 0
+        }
+      },
+      "vicegun": {
+        "0": {
+          "0": 1.003,
+          "1": 1.004,
+          "2": 0
+        }
+      },
+      "torpedo": {
+        "0": {
+          "0": 0.007,
+          "1": 0,
+          "2": 0
+        }
+      },
+      "antiaircraft": {
+        "0": {
+          "0": 0.921,
+          "1": 2.162,
+          "2": 0
+        }
+      }
+    },
+    "smoke": {
+      "0": {
+        "0": 50,
+        "1": {
+          "0": {
+            "0": "smoke",
+            "1": {
+              "0": -0.702,
+              "1": 2.419,
+              "2": 0
+            }
+          }
+        }
+      }
+    }
+  },
+  "9600033": {
+    "name": "金鹿号",
+    "change_skin": "",
+    "desc": "无描述",
+    "illustrator2": -1,
+    "ship_group": 960003,
+    "group_index": 3,
+    "purchase_offset": "",
+    "painting": "jinluhao_4",
+    "lover_hand": "hand_1_02",
+    "skin_type": 4,
+    "shop_type_id": 0,
+    "l2d_ignore_drag": 0,
+    "hand_id": 1,
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "lover_kiss": "lip03",
+    "bg_sp": "",
+    "bg": "",
+    "bgm": "",
+    "spine_use_live2d": 0,
+    "spine_action_offset": false,
+    "spine_offset_profile": "",
+    "shop_offset": "",
+    "special_effects": "",
+    "id": 9600033,
+    "voice_actor_2": -1,
+    "gyro": 0,
+    "ship_l2d_id": "",
+    "l2d_drag_rate": "",
+    "prefab": "jinluhao_3",
+    "l2d_se": "",
+    "part_scale": "",
+    "get_showing": "",
+    "main_UI_FX": "",
+    "shop_id": 0,
+    "voice_actor": 384,
+    "shop_dynamic_hx": 0,
+    "spine_offset": "",
+    "illustrator": -1,
+    "rarity_bg": "",
+    "double_char": 0,
+    "skeleton_default_skin": "",
+    "voice_lang": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "live2d_offset_profile": "",
+    "show_skin": "stand",
+    "l2d_voice_calibrate": "",
+    "tag": {},
+    "live2d_offset": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "fx_container": {
+      "0": {
+        "0": 0,
+        "1": 1.99185,
+        "2": 1.15
+      },
+      "1": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      },
+      "2": {
+        "0": 0,
+        "1": 0.75,
+        "2": -1.299
+      },
+      "3": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      }
+    },
+    "bound_bone": {
+      "cannon": {
+        "0": {
+          "0": 1.001,
+          "1": 1.008,
+          "2": 0
+        }
+      },
+      "vicegun": {
+        "0": {
+          "0": 1.003,
+          "1": 1.004,
+          "2": 0
+        }
+      },
+      "torpedo": {
+        "0": {
+          "0": 0.007,
+          "1": 0,
+          "2": 0
+        }
+      },
+      "antiaircraft": {
+        "0": {
+          "0": 1.2,
+          "1": 1.232,
+          "2": 0
+        }
+      }
+    },
+    "smoke": {
+      "0": {
+        "0": 50,
+        "1": {
+          "0": {
+            "0": "smoke",
+            "1": {
+              "0": -0.702,
+              "1": 2.419,
+              "2": 0
+            }
+          }
+        }
+      }
     }
   },
   "9600040": {
@@ -321146,6 +325397,129 @@
         "0": {
           "0": 0.887,
           "1": 0.737,
+          "2": 0
+        }
+      }
+    },
+    "smoke": {
+      "0": {
+        "0": 70,
+        "1": {
+          "0": {
+            "0": "smoke",
+            "1": {
+              "0": -0.813,
+              "1": 2.493,
+              "2": 0
+            }
+          }
+        }
+      },
+      "1": {
+        "0": 30,
+        "1": {
+          "0": {
+            "0": "smoke",
+            "1": {
+              "0": -0.789,
+              "1": 2.499,
+              "2": 0
+            }
+          }
+        }
+      }
+    }
+  },
+  "9707090": {
+    "name": "胜利·META",
+    "change_skin": "",
+    "desc": "指挥官，尚未熄灭的火炬向您问好。我是皇家海军的胜利号，请允许我加入您的舰队，以胜利的象征之名与您一同战斗吧~",
+    "illustrator2": -1,
+    "ship_group": 970709,
+    "group_index": 0,
+    "purchase_offset": "",
+    "painting": "shengli_alter",
+    "lover_hand": "hand_1_02",
+    "skin_type": -1,
+    "shop_type_id": 0,
+    "l2d_ignore_drag": 0,
+    "hand_id": 1,
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "lover_kiss": "lip03",
+    "bg_sp": "",
+    "bg": "",
+    "bgm": "",
+    "spine_use_live2d": 0,
+    "spine_action_offset": false,
+    "spine_offset_profile": "",
+    "shop_offset": "",
+    "special_effects": "",
+    "id": 9707090,
+    "voice_actor_2": -1,
+    "gyro": 0,
+    "ship_l2d_id": "",
+    "l2d_drag_rate": "",
+    "prefab": "shengli_alter",
+    "l2d_se": "",
+    "part_scale": "",
+    "get_showing": "",
+    "main_UI_FX": "",
+    "shop_id": 0,
+    "voice_actor": 94,
+    "shop_dynamic_hx": 0,
+    "spine_offset": "",
+    "illustrator": -1,
+    "rarity_bg": "",
+    "double_char": 0,
+    "skeleton_default_skin": "",
+    "voice_lang": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "live2d_offset_profile": "",
+    "show_skin": "stand",
+    "l2d_voice_calibrate": "",
+    "tag": {},
+    "live2d_offset": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "fx_container": {
+      "0": {
+        "0": 0,
+        "1": 1.99185,
+        "2": 1.15
+      },
+      "1": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      },
+      "2": {
+        "0": 0,
+        "1": 0.75,
+        "2": -1.299
+      },
+      "3": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      }
+    },
+    "bound_bone": {
+      "antiaircraft": {
+        "0": {
+          "0": 0.688,
+          "1": 2.307,
+          "2": 0
+        }
+      },
+      "plane": {
+        "0": {
+          "0": 1.587,
+          "1": 1.523,
           "2": 0
         }
       }
@@ -354031,6 +358405,172 @@
         "0": {
           "0": 1.26,
           "1": 1.26,
+          "2": 0
+        }
+      }
+    },
+    "smoke": {
+      "0": {
+        "0": 50,
+        "1": {
+          "0": {
+            "0": "smoke",
+            "1": {
+              "0": -0.73,
+              "1": 2.41,
+              "2": -0.16
+            }
+          }
+        }
+      }
+    },
+    "l2d_animations": {
+      "0": "idle",
+      "1": "main_1",
+      "2": "main_2",
+      "3": "main_3",
+      "4": "mission",
+      "5": "mission_complete",
+      "6": "complete",
+      "7": "login",
+      "8": "home",
+      "9": "mail",
+      "10": "touch_body",
+      "11": "touch_head"
+    },
+    "l2d_voice_calibrate": {
+      "use_event": true
+    },
+    "l2d_para_range": {
+      "ParamBodyAngleY": {
+        "0": -0.1,
+        "1": 0.1
+      }
+    },
+    "ship_l2d_id": {
+      "0": 29903401,
+      "1": 29903402,
+      "2": 29903403,
+      "3": 29903404,
+      "4": 29903405,
+      "5": 29903406,
+      "6": 29903407,
+      "7": 29903408,
+      "8": 29903409,
+      "9": 29903410,
+      "10": 29903411,
+      "11": 29903412,
+      "12": 29903413,
+      "13": 29903414,
+      "14": 29903415,
+      "15": 29903416,
+      "16": 29903417
+    }
+  },
+  "299035": {
+    "name": "柴郡",
+    "change_skin": "",
+    "desc": "无描述",
+    "illustrator2": -1,
+    "ship_group": 29903,
+    "group_index": 5,
+    "purchase_offset": "",
+    "painting": "chaijun_6",
+    "lover_hand": "hand_2_02",
+    "skin_type": 4,
+    "shop_type_id": 0,
+    "l2d_ignore_drag": 0,
+    "hand_id": 13,
+    "lip_smoothing": 0,
+    "lover_kiss": "lip02",
+    "bg_sp": "",
+    "bg": "",
+    "bgm": "",
+    "spine_use_live2d": 0,
+    "spine_action_offset": false,
+    "spine_offset_profile": "",
+    "shop_offset": "",
+    "special_effects": "",
+    "id": 299035,
+    "voice_actor_2": -1,
+    "gyro": 0,
+    "l2d_drag_rate": "",
+    "prefab": "chaijun_6",
+    "l2d_se": "",
+    "part_scale": "",
+    "get_showing": "",
+    "main_UI_FX": "",
+    "shop_id": 0,
+    "voice_actor": 30,
+    "shop_dynamic_hx": 0,
+    "spine_offset": "",
+    "illustrator": 1,
+    "rarity_bg": "",
+    "double_char": 0,
+    "skeleton_default_skin": "",
+    "voice_lang": "",
+    "time": "",
+    "lip_sync_gain": 0,
+    "show_skin": "stand",
+    "tag": {},
+    "live2d_offset": {
+      "0": 0,
+      "1": 55,
+      "2": 0
+    },
+    "live2d_offset_profile": {
+      "0": 110,
+      "1": 55,
+      "2": 0
+    },
+    "fx_container": {
+      "0": {
+        "0": 0,
+        "1": 1.99185,
+        "2": 1.15
+      },
+      "1": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      },
+      "2": {
+        "0": 0,
+        "1": 0.75,
+        "2": -1.299
+      },
+      "3": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      }
+    },
+    "bound_bone": {
+      "cannon": {
+        "0": {
+          "0": 0.991,
+          "1": 0.967,
+          "2": 0
+        }
+      },
+      "vicegun": {
+        "0": {
+          "0": 0.788,
+          "1": 0.854,
+          "2": 0
+        }
+      },
+      "torpedo": {
+        "0": {
+          "0": 0.003,
+          "1": 0.009,
+          "2": 0
+        }
+      },
+      "antiaircraft": {
+        "0": {
+          "0": 0.828,
+          "1": 2.27,
           "2": 0
         }
       }

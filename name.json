@@ -5458,6 +5458,42 @@
       ]
     },
     {
+      "name": "勇敢·改",
+      "painting": "yonggan_g",
+      "ship_group": "20116",
+      "res_list": [
+        "painting/yonggan_g_tex",
+        "painting/yonggan_g_rw_tex",
+        "painting/yonggan_g_n_tex",
+        "painting/yonggan_g_n_rw_tex",
+        "painting/yonggan_g_n",
+        "painting/yonggan_g_bj_tex",
+        "painting/yonggan_g"
+      ]
+    },
+    {
+      "name": "敌对",
+      "painting": "didui",
+      "ship_group": "20119",
+      "res_list": [
+        "painting/didui_tex",
+        "painting/didui_rw_tex",
+        "painting/didui"
+      ]
+    },
+    {
+      "name": "水畔的守望之光",
+      "painting": "didui_2",
+      "ship_group": "20119",
+      "res_list": [
+        "painting/didui_2_tex",
+        "painting/didui_2_rw_tex",
+        "painting/didui_2_n_rw_tex",
+        "painting/didui_2_n",
+        "painting/didui_2"
+      ]
+    },
+    {
       "name": "猎人",
       "painting": "lieren",
       "ship_group": "20120",
@@ -6002,6 +6038,34 @@
         "painting/yongqi_2_n_rw_tex",
         "painting/yongqi_2_n",
         "painting/yongqi_2"
+      ]
+    },
+    {
+      "name": "匆忙",
+      "painting": "congmang",
+      "ship_group": "20140",
+      "res_list": [
+        "painting/congmang_tex",
+        "painting/congmang_rw_tex",
+        "painting/congmang_n_tex",
+        "painting/congmang_n_rw_tex",
+        "painting/congmang_n",
+        "painting/congmang"
+      ]
+    },
+    {
+      "name": "人偶藏馆",
+      "painting": "congmang_2",
+      "ship_group": "20140",
+      "res_list": [
+        "painting/congmang_2_tex",
+        "painting/congmang_2_rw_tex",
+        "painting/congmang_2_n_tex",
+        "painting/congmang_2_n_rw_tex",
+        "painting/congmang_2_n_bj_tex",
+        "painting/congmang_2_n",
+        "painting/congmang_2_bj_tex",
+        "painting/congmang_2"
       ]
     },
     {
@@ -7134,6 +7198,46 @@
       ]
     },
     {
+      "name": "虎",
+      "painting": "hu",
+      "ship_group": "20238",
+      "res_list": [
+        "painting/hu_tex",
+        "painting/hu_rw_tex",
+        "painting/hu_rw_hx_tex",
+        "painting/hu_n_tex",
+        "painting/hu_n_rw_tex",
+        "painting/hu_n_rw_hx_tex",
+        "painting/hu_n_hx_tex",
+        "painting/hu_n_hx",
+        "painting/hu_n",
+        "painting/hu_hx_tex",
+        "painting/hu_hx",
+        "painting/hu"
+      ]
+    },
+    {
+      "name": "临水的辰星",
+      "painting": "hu_2",
+      "ship_group": "20238",
+      "res_list": [
+        "painting/hu_2_tex",
+        "painting/hu_2_rw_tex",
+        "painting/hu_2_rw_hx_tex",
+        "painting/hu_2_n_rw_tex",
+        "painting/hu_2_n_rw_hx_tex",
+        "painting/hu_2_n_hx",
+        "painting/hu_2_n_bj_tex",
+        "painting/hu_2_n_bj_hx_tex",
+        "painting/hu_2_n",
+        "painting/hu_2_hx_tex",
+        "painting/hu_2_hx",
+        "painting/hu_2_bj_tex",
+        "painting/hu_2_bj_hx_tex",
+        "painting/hu_2"
+      ]
+    },
+    {
       "name": "伦敦",
       "painting": "lundun",
       "ship_group": "20301",
@@ -8019,6 +8123,18 @@
       ]
     },
     {
+      "name": "夜巷中的诱引者",
+      "painting": "shi_3",
+      "ship_group": "20516",
+      "res_list": [
+        "painting/shi_3_tex",
+        "painting/shi_3_rw_tex",
+        "painting/shi_3_n_rw_tex",
+        "painting/shi_3_n",
+        "painting/shi_3"
+      ]
+    },
+    {
       "name": "竞技神",
       "painting": "jingjishen",
       "ship_group": "20601",
@@ -8541,6 +8657,7 @@
       "ship_group": "20704",
       "res_list": [
         "painting/shengli_tex",
+        "painting/shengli_rw_tex",
         "painting/shengli"
       ]
     },
@@ -8936,6 +9053,18 @@
         "painting/guanghui_8_n",
         "painting/guanghui_8_bj_tex",
         "painting/guanghui_8"
+      ]
+    },
+    {
+      "name": "幽影徘徊之夜",
+      "painting": "guanghui_9",
+      "ship_group": "20703",
+      "res_list": [
+        "painting/guanghui_9_tex",
+        "painting/guanghui_9_rw_tex",
+        "painting/guanghui_9_n_rw_tex",
+        "painting/guanghui_9_n",
+        "painting/guanghui_9"
       ]
     },
     {
@@ -12691,6 +12820,33 @@
       ]
     },
     {
+      "name": "安土",
+      "painting": "antu",
+      "ship_group": "30409",
+      "res_list": [
+        "painting/antu_tex",
+        "painting/antu_rw_tex",
+        "painting/antu_n_tex",
+        "painting/antu_n_rw_tex",
+        "painting/antu_n",
+        "painting/antu_bj_tex",
+        "painting/antu"
+      ]
+    },
+    {
+      "name": "午夜的瑰色电梯",
+      "painting": "antu_2",
+      "ship_group": "30409",
+      "res_list": [
+        "painting/antu_2_tex",
+        "painting/antu_2_rw_tex",
+        "painting/antu_2_rw_hx_tex",
+        "painting/antu_2_hx_tex",
+        "painting/antu_2_hx",
+        "painting/antu_2"
+      ]
+    },
+    {
       "name": "扶桑",
       "painting": "fusang",
       "ship_group": "30501",
@@ -14391,6 +14547,34 @@
         "painting/i404_2_n",
         "painting/i404_2_bj_tex",
         "painting/i404_2"
+      ]
+    },
+    {
+      "name": "伊14",
+      "painting": "i14",
+      "ship_group": "31703",
+      "res_list": [
+        "painting/i14_tex",
+        "painting/i14_rw_tex",
+        "painting/i14_n_tex",
+        "painting/i14_n_rw_tex",
+        "painting/i14_n",
+        "painting/i14_bj_tex",
+        "painting/i14"
+      ]
+    },
+    {
+      "name": "千面皆虚无",
+      "painting": "i14_2",
+      "ship_group": "31703",
+      "res_list": [
+        "painting/i14_2_tex",
+        "painting/i14_2_rw_tex",
+        "painting/i14_2_n_tex",
+        "painting/i14_2_n_rw_tex",
+        "painting/i14_2_n",
+        "painting/i14_2_bj_tex",
+        "painting/i14_2"
       ]
     },
     {
@@ -16352,6 +16536,19 @@
         "painting/feiteliekaer_3_n",
         "painting/feiteliekaer_3_bj_tex",
         "painting/feiteliekaer_3"
+      ]
+    },
+    {
+      "name": "午夜频道",
+      "painting": "feiteliekaer_4",
+      "ship_group": "40314",
+      "res_list": [
+        "painting/feiteliekaer_4_tex",
+        "painting/feiteliekaer_4_rw_tex",
+        "painting/feiteliekaer_4_n_tex",
+        "painting/feiteliekaer_4_n_rw_tex",
+        "painting/feiteliekaer_4_n",
+        "painting/feiteliekaer_4"
       ]
     },
     {
@@ -25818,6 +26015,17 @@
         "painting/dahuangfeng_alter_n_tex",
         "painting/dahuangfeng_alter_n",
         "painting/dahuangfeng_alter"
+      ]
+    },
+    {
+      "name": "胜利·META",
+      "painting": "shengli_alter",
+      "ship_group": "970709",
+      "res_list": [
+        "painting/shengli_alter_tex",
+        "painting/shengli_alter_rw_tex",
+        "painting/shengli_alter_bj_tex",
+        "painting/shengli_alter"
       ]
     },
     {
